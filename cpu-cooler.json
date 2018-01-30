@@ -1,0 +1,5742 @@
+[
+	{
+		"name": "Cooler Master Hyper 212 EVO",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "9.0 - 36.0 dbA",
+		"ratings": "1275",
+		"price": "£24.98"
+	},
+	{
+		"name": "Corsair H100i v2",
+		"fan-rpm": "2435 RPM",
+		"noise level": "37.7 dbA",
+		"ratings": "195",
+		"price": "£100.00"
+	},
+	{
+		"name": "NZXT Kraken X62 Rev 2",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "21.0 - 38.0 dbA",
+		"ratings": "22",
+		"price": "£136.64"
+	},
+	{
+		"name": "CRYORIG H7",
+		"fan-rpm": "330 - 1600 RPM",
+		"noise level": "1.0 - 25.0 dbA",
+		"ratings": "169",
+		"price": "£34.99"
+	},
+	{
+		"name": "Corsair H60",
+		"fan-rpm": "2000 RPM",
+		"noise level": "30.9 dbA",
+		"ratings": "225",
+		"price": "£71.34"
+	},
+	{
+		"name": "CRYORIG C7",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "81",
+		"price": "£29.99"
+	},
+	{
+		"name": "Corsair H115i",
+		"fan-rpm": "2000 RPM",
+		"noise level": "40.0 dbA",
+		"ratings": "69",
+		"price": "£114.98"
+	},
+	{
+		"name": "Cooler Master Hyper T2",
+		"fan-rpm": "2800 RPM",
+		"noise level": "17.0 - 35.0 dbA",
+		"ratings": "36",
+		"price": "£18.58"
+	},
+	{
+		"name": "Noctua NH-D15",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "19.2 - 24.6 dbA",
+		"ratings": "60",
+		"price": "£74.99"
+	},
+	{
+		"name": "be quiet! Pure Rock Slim",
+		"fan-rpm": "2000 RPM",
+		"noise level": "13.1 - 25.4 dbA",
+		"ratings": "9",
+		"price": "£19.92"
+	},
+	{
+		"name": "Corsair H100i",
+		"fan-rpm": "2700 RPM",
+		"noise level": "37.7 dbA",
+		"ratings": "678",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master MasterLiquid Lite 120",
+		"fan-rpm": "650 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "5",
+		"price": "£39.48"
+	},
+	{
+		"name": "be quiet! Dark Rock 3",
+		"fan-rpm": "400 - 1400 RPM",
+		"noise level": "8.4 - 21.1 dbA",
+		"ratings": "38",
+		"price": "£56.54"
+	},
+	{
+		"name": "NZXT Kraken X62",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "21.0 - 38.0 dbA",
+		"ratings": "63",
+		"price": "£139.00"
+	},
+	{
+		"name": "Thermaltake Floe Riing RGB 360 TT Premium Edition",
+		"fan-rpm": "500 - 1400 RPM",
+		"noise level": "19.8 - 24.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Hyper 212 LED",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "9.0 - 31.0 dbA",
+		"ratings": "23",
+		"price": "£21.86"
+	},
+	{
+		"name": "Phanteks PH-TC14PE_BL",
+		"fan-rpm": "700 - 1200 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Corsair H80i v2",
+		"fan-rpm": "2435 RPM",
+		"noise level": "37.7 dbA",
+		"ratings": "32",
+		"price": "£79.99"
+	},
+	{
+		"name": "Fractal Design Celsius S36",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "32.2 dbA",
+		"ratings": "3",
+		"price": "£118.99"
+	},
+	{
+		"name": "NZXT Kraken X52 Rev 2",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "21.0 - 36.0 dbA",
+		"ratings": "4",
+		"price": "£134.40"
+	},
+	{
+		"name": "ARCTIC Alpine 11 GT Rev. 2",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Noctua NH-L9i",
+		"fan-rpm": "2500 - 2999 RPM",
+		"noise level": "14.8 - 23.6 dbA",
+		"ratings": "48",
+		"price": "£34.46"
+	},
+	{
+		"name": "be quiet! Dark Rock Pro 3",
+		"fan-rpm": "1400 - 1700 RPM",
+		"noise level": "13.2 - 26.1 dbA",
+		"ratings": "37",
+		"price": "£62.50"
+	},
+	{
+		"name": "Noctua NH-U12S",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "18.6 - 22.4 dbA",
+		"ratings": "45",
+		"price": "£51.83"
+	},
+	{
+		"name": "Cooler Master Hyper 212X",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "9.0 - 36.0 dbA",
+		"ratings": "45",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Water 3.0 Riing RGB 360",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "26.4 dbA",
+		"ratings": "4",
+		"price": "£130.98"
+	},
+	{
+		"name": "Cooler Master \tMasterLiquid Lite 240",
+		"fan-rpm": "650 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": "£52.99"
+	},
+	{
+		"name": "Cooler Master MasterLiquid 240",
+		"fan-rpm": "650 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "9",
+		"price": "£67.58"
+	},
+	{
+		"name": "Deepcool CAPTAIN 240EX WHITE",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "17.6 - 31.3 dbA",
+		"ratings": "19",
+		"price": ""
+	},
+	{
+		"name": "CRYORIG H7 Quad Lumi",
+		"fan-rpm": "330 - 1600 RPM",
+		"noise level": "10.0 - 25.0 dbA",
+		"ratings": "2",
+		"price": "£59.99"
+	},
+	{
+		"name": "Corsair H110i",
+		"fan-rpm": "2100 RPM",
+		"noise level": "43.0 dbA",
+		"ratings": "17",
+		"price": "£105.46"
+	},
+	{
+		"name": "Cooler Master MasterLiquid 120",
+		"fan-rpm": "650 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "1",
+		"price": "£54.98"
+	},
+	{
+		"name": "Corsair H55",
+		"fan-rpm": "1700 RPM",
+		"noise level": "30.3 dbA",
+		"ratings": "108",
+		"price": "£53.99"
+	},
+	{
+		"name": "Corsair H75",
+		"fan-rpm": "2000 RPM",
+		"noise level": "31.4 dbA",
+		"ratings": "49",
+		"price": "£69.95"
+	},
+	{
+		"name": "Noctua NH-D14",
+		"fan-rpm": "900 - 1200 RPM",
+		"noise level": "12.6 - 19.8 dbA",
+		"ratings": "106",
+		"price": "£64.25"
+	},
+	{
+		"name": "CRYORIG M9i",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "26.4 dbA",
+		"ratings": "43",
+		"price": ""
+	},
+	{
+		"name": "Fractal Design Celsius S24",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "32.2 dbA",
+		"ratings": "6",
+		"price": "£102.66"
+	},
+	{
+		"name": "Noctua NH-L9x65",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "14.8 - 23.6 dbA",
+		"ratings": "4",
+		"price": "£42.17"
+	},
+	{
+		"name": "Noctua NH-D15S",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "19.2 - 24.6 dbA",
+		"ratings": "16",
+		"price": "£68.73"
+	},
+	{
+		"name": "Cooler Master Hyper 212X Dual Fan",
+		"fan-rpm": "2000 RPM",
+		"noise level": "9.0 - 36.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Noctua NH-U9S",
+		"fan-rpm": "400 - 2000 RPM",
+		"noise level": "16.3 - 22.8 dbA",
+		"ratings": "19",
+		"price": "£51.95"
+	},
+	{
+		"name": "Corsair H105",
+		"fan-rpm": "800 - 2700 RPM",
+		"noise level": "37.7 dbA",
+		"ratings": "102",
+		"price": "£103.98"
+	},
+	{
+		"name": "be quiet! PURE ROCK",
+		"fan-rpm": "1500 RPM",
+		"noise level": "19.1 - 26.8 dbA",
+		"ratings": "17",
+		"price": "£27.72"
+	},
+	{
+		"name": "Deepcool CAPTAIN 240 EX",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "17.6 - 31.3 dbA",
+		"ratings": "6",
+		"price": "£80.97"
+	},
+	{
+		"name": "Phanteks PH-TC12DX_BL",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "21.9 - 27.6 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Alpine 64 GT",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "9",
+		"price": "£5.99"
+	},
+	{
+		"name": "Thermaltake Water 3.0 Riing RGB 240",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "26.4 dbA",
+		"ratings": "8",
+		"price": "£104.99"
+	},
+	{
+		"name": "ARCTIC Freezer 7 Pro Rev.2",
+		"fan-rpm": "900 - 2500 RPM",
+		"noise level": "N/A",
+		"ratings": "36",
+		"price": "£17.99"
+	},
+	{
+		"name": "Noctua NH-D15 SE-AM4",
+		"fan-rpm": "1200 - 1500 RPM",
+		"noise level": "19.2 - 24.6 dbA",
+		"ratings": "2",
+		"price": "£74.99"
+	},
+	{
+		"name": "Deepcool CAPTAIN 240EX RGB",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "17.6 - 31.3 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "NZXT Kraken X42 Rev 2",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "21.0 - 38.0 dbA",
+		"ratings": "1",
+		"price": "£109.61"
+	},
+	{
+		"name": "Noctua NH-U14S TR4-SP3",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "19.2 - 24.6 dbA",
+		"ratings": "0",
+		"price": "£74.99"
+	},
+	{
+		"name": "Corsair H100i GTX",
+		"fan-rpm": "2435 RPM",
+		"noise level": "37.7 dbA",
+		"ratings": "97",
+		"price": "£84.98"
+	},
+	{
+		"name": "Cooler Master Hyper T4",
+		"fan-rpm": "1800 RPM",
+		"noise level": "15.1 - 31.6 dbA",
+		"ratings": "35",
+		"price": ""
+	},
+	{
+		"name": "CRYORIG H5 Ultimate",
+		"fan-rpm": "700 - 1300 RPM",
+		"noise level": "19.0 - 23.0 dbA",
+		"ratings": "12",
+		"price": ""
+	},
+	{
+		"name": "NZXT Kraken X52",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "21.0 - 36.0 dbA",
+		"ratings": "39",
+		"price": "£130.10"
+	},
+	{
+		"name": "NZXT Kraken X61",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "20.0 - 37.0 dbA",
+		"ratings": "136",
+		"price": "£94.99"
+	},
+	{
+		"name": "ARCTIC Alpine 64 PLUS",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "3",
+		"price": "£9.34"
+	},
+	{
+		"name": "be quiet! Silent Loop 240",
+		"fan-rpm": "2000 RPM",
+		"noise level": "16.1 - 36.9 dbA",
+		"ratings": "1",
+		"price": "£113.99"
+	},
+	{
+		"name": "Noctua NH-U14S",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "19.2 - 24.6 dbA",
+		"ratings": "36",
+		"price": "£51.97"
+	},
+	{
+		"name": "Corsair H80i",
+		"fan-rpm": "2700 RPM",
+		"noise level": "37.7 dbA",
+		"ratings": "160",
+		"price": ""
+	},
+	{
+		"name": "EVGA CLC 280",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "16.0 - 39.5 dbA",
+		"ratings": "3",
+		"price": "£100.97"
+	},
+	{
+		"name": "CRYORIG M9a",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "26.4 dbA",
+		"ratings": "6",
+		"price": "£20.99"
+	},
+	{
+		"name": "Cooler Master MasterLiquid Pro 280",
+		"fan-rpm": "650 - 2200 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "3",
+		"price": "£102.99"
+	},
+	{
+		"name": "Deepcool GAMMAXX 400",
+		"fan-rpm": "900 - 1500 RPM",
+		"noise level": "21.4 - 32.1 dbA",
+		"ratings": "22",
+		"price": ""
+	},
+	{
+		"name": "CRYORIG R1 Ultimate",
+		"fan-rpm": "700 - 1300 RPM",
+		"noise level": "23.0 dbA",
+		"ratings": "12",
+		"price": "£72.95"
+	},
+	{
+		"name": "Cooler Master Hyper TX3 Evo",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "N/A",
+		"ratings": "25",
+		"price": "£18.98"
+	},
+	{
+		"name": "CRYORIG H5 Universal",
+		"fan-rpm": "700 - 1300 RPM",
+		"noise level": "20.0 - 24.0 dbA",
+		"ratings": "23",
+		"price": ""
+	},
+	{
+		"name": "MSI CORE FROZR L",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "17.2 - 33.6 dbA",
+		"ratings": "2",
+		"price": "£58.10"
+	},
+	{
+		"name": "ARCTIC Liquid Freezer 240",
+		"fan-rpm": "500 - 1350 RPM",
+		"noise level": "N/A",
+		"ratings": "7",
+		"price": "£77.99"
+	},
+	{
+		"name": "Cooler Master V8 GTS",
+		"fan-rpm": "1600 RPM",
+		"noise level": "36.0 dbA",
+		"ratings": "20",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Water 3.0 Ultimate",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "5",
+		"price": "£105.75"
+	},
+	{
+		"name": "be quiet! SHADOW ROCK LP",
+		"fan-rpm": "1500 RPM",
+		"noise level": "14.8 - 25.5 dbA",
+		"ratings": "3",
+		"price": "£34.74"
+	},
+	{
+		"name": "Noctua NH-D9L",
+		"fan-rpm": "400 - 2000 RPM",
+		"noise level": "16.3 - 22.8 dbA",
+		"ratings": "10",
+		"price": "£46.99"
+	},
+	{
+		"name": "Noctua NH-L9x65 SE-AM4",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "14.8 - 23.6 dbA",
+		"ratings": "1",
+		"price": "£42.95"
+	},
+	{
+		"name": "Thermaltake Floe Riing RGB 280 TT Premium Edition",
+		"fan-rpm": "500 - 1400 RPM",
+		"noise level": "19.8 - 27.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Noctua NH-U12S SE-AM4",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "18.6 - 22.4 dbA",
+		"ratings": "3",
+		"price": "£54.95"
+	},
+	{
+		"name": "Deepcool CAPTAIN 120EX RGB",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "17.6 - 31.3 dbA",
+		"ratings": "0",
+		"price": "£85.49"
+	},
+	{
+		"name": "Cooler Master Hyper 212 LED Turbo (Red)",
+		"fan-rpm": "300 - 1600 RPM",
+		"noise level": "9.0 - 31.0 dbA",
+		"ratings": "0",
+		"price": "£37.23"
+	},
+	{
+		"name": "Deepcool CAPTAIN 360",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "17.6 - 39.3 dbA",
+		"ratings": "4",
+		"price": "£109.99"
+	},
+	{
+		"name": "be quiet! DARK ROCK TF",
+		"fan-rpm": "1400 RPM",
+		"noise level": "11.9 - 26.7 dbA",
+		"ratings": "5",
+		"price": "£69.94"
+	},
+	{
+		"name": "Deepcool CAPTAIN 120EX WHITE",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "17.6 - 31.3 dbA",
+		"ratings": "6",
+		"price": ""
+	},
+	{
+		"name": "Rosewill RCX-Z775-LP",
+		"fan-rpm": "600 - 2600 RPM",
+		"noise level": "16.0 - 24.5 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Scythe Mugen 5",
+		"fan-rpm": "300 - 1200 RPM",
+		"noise level": "4.0 - 24.9 dbA",
+		"ratings": "1",
+		"price": "£42.95"
+	},
+	{
+		"name": "ARCTIC Liquid Freezer 360",
+		"fan-rpm": "500 - 1350 RPM",
+		"noise level": "22.5 dbA",
+		"ratings": "1",
+		"price": "£99.95"
+	},
+	{
+		"name": "Cooler Master MasterLiquid Pro 240",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "1",
+		"price": "£74.99"
+	},
+	{
+		"name": "Cooler Master MasterLiquid ML240L RGB",
+		"fan-rpm": "650 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master MasterAir Pro 4",
+		"fan-rpm": "650 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": "£40.99"
+	},
+	{
+		"name": "Cooler Master Hyper 612 Ver.2",
+		"fan-rpm": "800 - 1300 RPM",
+		"noise level": "11.0 - 20.0 dbA",
+		"ratings": "1",
+		"price": "£37.98"
+	},
+	{
+		"name": "Cooler Master Nepton 280L",
+		"fan-rpm": "2000 RPM",
+		"noise level": "21.0 - 39.0 dbA",
+		"ratings": "11",
+		"price": "£91.10"
+	},
+	{
+		"name": "Noctua NH-U9 TR4-SP3",
+		"fan-rpm": "400 - 2000 RPM",
+		"noise level": "16.3 - 22.8 dbA",
+		"ratings": "0",
+		"price": "£62.99"
+	},
+	{
+		"name": "ARCTIC Freezer 33 TR (Black/White)",
+		"fan-rpm": "200 - 1800 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "0",
+		"price": "£34.99"
+	},
+	{
+		"name": "EVGA CLC 240",
+		"fan-rpm": "500 - 2400 RPM",
+		"noise level": "16.0 - 39.9 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "be quiet! Silent Loop 120",
+		"fan-rpm": "2000 RPM",
+		"noise level": "16.1 - 36.9 dbA",
+		"ratings": "1",
+		"price": "£87.59"
+	},
+	{
+		"name": "Cooler Master MasterAir Maker 8",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "8.0 - 24.0 dbA",
+		"ratings": "2",
+		"price": "£53.59"
+	},
+	{
+		"name": "Deepcool CAPTAIN360EX",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "17.6 - 31.3 dbA",
+		"ratings": "1",
+		"price": "£105.48"
+	},
+	{
+		"name": "LEPA AquaChanger 240",
+		"fan-rpm": "500 - 2300 RPM",
+		"noise level": "14.0 - 35.0 dbA",
+		"ratings": "14",
+		"price": "£73.39"
+	},
+	{
+		"name": "ARCTIC Liquid Freezer 120",
+		"fan-rpm": "500 - 1350 RPM",
+		"noise level": "N/A",
+		"ratings": "6",
+		"price": "£54.99"
+	},
+	{
+		"name": "Corsair H90",
+		"fan-rpm": "1500 RPM",
+		"noise level": "35.0 dbA",
+		"ratings": "37",
+		"price": "£82.74"
+	},
+	{
+		"name": "Noctua NH-L12",
+		"fan-rpm": "1200 - 1600 RPM",
+		"noise level": "13.1 - 22.4 dbA",
+		"ratings": "15",
+		"price": "£42.99"
+	},
+	{
+		"name": "Zalman CNPS80F",
+		"fan-rpm": "2500 RPM",
+		"noise level": "23.8 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "CRYORIG C1",
+		"fan-rpm": "700 - 1300 RPM",
+		"noise level": "24.0 dbA",
+		"ratings": "2",
+		"price": "£62.03"
+	},
+	{
+		"name": "Corsair H50",
+		"fan-rpm": "1700 RPM",
+		"noise level": "30.3 dbA",
+		"ratings": "20",
+		"price": ""
+	},
+	{
+		"name": "Deepcool GAMMAXX 400 White",
+		"fan-rpm": "900 - 1500 RPM",
+		"noise level": "17.8 - 30.0 dbA",
+		"ratings": "0",
+		"price": "£36.05"
+	},
+	{
+		"name": "Thermaltake Floe Riing RGB 240 TT Premium Edition",
+		"fan-rpm": "500 - 1400 RPM",
+		"noise level": "198.9 - 24.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0556-B",
+		"fan-rpm": "1900 - 2300 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Corsair H110i GTX",
+		"fan-rpm": "2000 RPM",
+		"noise level": "40.0 dbA",
+		"ratings": "40",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master MasterLiquid Pro 120",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "3",
+		"price": "£59.99"
+	},
+	{
+		"name": "ARCTIC Freezer 13 CO",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "4",
+		"price": "£24.98"
+	},
+	{
+		"name": "Cooler Master Hyper 212 LED Turbo (Black)",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "9.0 - 31.0 dbA",
+		"ratings": "0",
+		"price": "£38.94"
+	},
+	{
+		"name": "Enermax LiqTech TR4 360",
+		"fan-rpm": "500 - 2300 RPM",
+		"noise level": "14.0 - 28.0 dbA",
+		"ratings": "0",
+		"price": "£154.99"
+	},
+	{
+		"name": "Noctua NH-U9B SE2",
+		"fan-rpm": "1000 - 1600 RPM",
+		"noise level": "7.9 - 17.6 dbA",
+		"ratings": "23",
+		"price": "£52.10"
+	},
+	{
+		"name": "Noctua NH-D14 SE2011",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "12.6 - 19.8 dbA",
+		"ratings": "9",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Seidon 120V VER.2",
+		"fan-rpm": "800 - 2400 RPM",
+		"noise level": "6.5 - 27.0 dbA",
+		"ratings": "7",
+		"price": "£45.94"
+	},
+	{
+		"name": "ARCTIC Alpine 11 Pro Rev. 2",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "10",
+		"price": "£8.99"
+	},
+	{
+		"name": "Deepcool ICE BLADE 200M",
+		"fan-rpm": "2200 RPM",
+		"noise level": "17.8 - 30.1 dbA",
+		"ratings": "1",
+		"price": "£18.99"
+	},
+	{
+		"name": "Silverstone TD02-LITE",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "18.0 - 35.0 dbA",
+		"ratings": "7",
+		"price": ""
+	},
+	{
+		"name": "EVGA CLC 120",
+		"fan-rpm": "500 - 2400 RPM",
+		"noise level": "16.0 - 39.9 dbA",
+		"ratings": "1",
+		"price": "£68.01"
+	},
+	{
+		"name": "Thermaltake Water 3.0 Extreme S",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "5",
+		"price": "£77.88"
+	},
+	{
+		"name": "Thermaltake Contac Silent 12",
+		"fan-rpm": "400 - 1500 RPM",
+		"noise level": "22.1 - 28.8 dbA",
+		"ratings": "0",
+		"price": "£29.49"
+	},
+	{
+		"name": "Cooler Master Hyper D92",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "18.0 - 33.0 dbA",
+		"ratings": "7",
+		"price": ""
+	},
+	{
+		"name": "Deepcool GAMMAXX 300",
+		"fan-rpm": "900 - 1600 RPM",
+		"noise level": "17.8 - 21.0 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Nepton 240M",
+		"fan-rpm": "2400 RPM",
+		"noise level": "6.5 - 27.0 dbA",
+		"ratings": "15",
+		"price": "£85.10"
+	},
+	{
+		"name": "ARCTIC Freezer 33 eSports Edition (Black/White)",
+		"fan-rpm": "200 - 1800 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "0",
+		"price": "£49.98"
+	},
+	{
+		"name": "Cooler Master MasterLiquid ML120L RGB",
+		"fan-rpm": "650 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "be quiet! Dark Rock 2",
+		"fan-rpm": "1300 RPM",
+		"noise level": "8.7 - 21.2 dbA",
+		"ratings": "2",
+		"price": "£53.00"
+	},
+	{
+		"name": "CRYORIG R1 Universal",
+		"fan-rpm": "700 - 1300 RPM",
+		"noise level": "20.0 - 25.0 dbA",
+		"ratings": "13",
+		"price": "£72.95"
+	},
+	{
+		"name": "Cooler Master Seidon 120V",
+		"fan-rpm": "2400 RPM",
+		"noise level": "19.0 - 40.0 dbA",
+		"ratings": "75",
+		"price": ""
+	},
+	{
+		"name": "NZXT Kraken X31",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "18.0 - 34.0 dbA",
+		"ratings": "21",
+		"price": "£90.84"
+	},
+	{
+		"name": "Deepcool GAMMAXX GT",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "17.8 - 29.5 dbA",
+		"ratings": "0",
+		"price": "£54.52"
+	},
+	{
+		"name": "Phanteks PH-TC12DX_BK",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "21.9 - 27.6 dbA",
+		"ratings": "22",
+		"price": "£42.95"
+	},
+	{
+		"name": "ARCTIC Alpine 11 Plus",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "14.0 dbA",
+		"ratings": "7",
+		"price": "£8.03"
+	},
+	{
+		"name": "Corsair H110",
+		"fan-rpm": "1500 RPM",
+		"noise level": "35.0 dbA",
+		"ratings": "64",
+		"price": "£117.98"
+	},
+	{
+		"name": "Enermax Liqmax II 120",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "16.0 - 35.0 dbA",
+		"ratings": "2",
+		"price": "£67.62"
+	},
+	{
+		"name": "Noctua NH-U12DXi4",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "18.6 - 22.4 dbA",
+		"ratings": "3",
+		"price": "£57.99"
+	},
+	{
+		"name": "Corsair H60",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "39",
+		"price": "£80.49"
+	},
+	{
+		"name": "ARCTIC Alpine 11 GT Rev 2",
+		"fan-rpm": "2000 RPM",
+		"noise level": "22.5 dbA",
+		"ratings": "1",
+		"price": "£5.99"
+	},
+	{
+		"name": "be quiet! Shadow Rock 2",
+		"fan-rpm": "1600 RPM",
+		"noise level": "15.3 - 25.4 dbA",
+		"ratings": "6",
+		"price": "£39.24"
+	},
+	{
+		"name": "NZXT Kraken X42",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "21.0 - 38.0 dbA",
+		"ratings": "4",
+		"price": "£95.98"
+	},
+	{
+		"name": "Noctua NH-C14S",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "19.2 - 24.6 dbA",
+		"ratings": "4",
+		"price": "£66.95"
+	},
+	{
+		"name": "ARCTIC Freezer 33 eSports Edition (Black/Red)",
+		"fan-rpm": "200 - 1800 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "0",
+		"price": "£49.34"
+	},
+	{
+		"name": "be quiet! Shadow Rock Slim",
+		"fan-rpm": "400 - 1400 RPM",
+		"noise level": "11.5 - 23.7 dbA",
+		"ratings": "13",
+		"price": "£39.06"
+	},
+	{
+		"name": "ARCTIC Freezer 33 TR (Black/Red)",
+		"fan-rpm": "200 - 1800 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "0",
+		"price": "£37.99"
+	},
+	{
+		"name": "Cooler Master DK9-7G52A-0L-GP",
+		"fan-rpm": "4500 RPM",
+		"noise level": "35.0 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Swiftech H240-X",
+		"fan-rpm": "700 - 1800 RPM",
+		"noise level": "8.3 - 28.8 dbA",
+		"ratings": "11",
+		"price": ""
+	},
+	{
+		"name": "Scythe Kotetsu",
+		"fan-rpm": "400 - 1400 RPM",
+		"noise level": "5.3 - 28.0 dbA",
+		"ratings": "4",
+		"price": "£40.07"
+	},
+	{
+		"name": "Deepcool CAPTAIN 120 EX",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "17.6 - 31.3 dbA",
+		"ratings": "5",
+		"price": "£65.47"
+	},
+	{
+		"name": "Thermalright Le Grand Macho",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Vortex Plus",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "17.0 - 35.0 dbA",
+		"ratings": "9",
+		"price": "£53.75"
+	},
+	{
+		"name": "Noctua NH-U9DXi4",
+		"fan-rpm": "300 - 1600 RPM",
+		"noise level": "13.1 - 17.6 dbA",
+		"ratings": "1",
+		"price": "£52.99"
+	},
+	{
+		"name": "Enermax ETS-T40F-W",
+		"fan-rpm": "2200 RPM",
+		"noise level": "27.0 dbA",
+		"ratings": "6",
+		"price": ""
+	},
+	{
+		"name": "be quiet! Silent Loop 360",
+		"fan-rpm": "2000 RPM",
+		"noise level": "16.1 - 36.9 dbA",
+		"ratings": "0",
+		"price": "£138.96"
+	},
+	{
+		"name": "Enermax LiqTech TR4 240",
+		"fan-rpm": "500 - 2300 RPM",
+		"noise level": "14.0 - 28.0 dbA",
+		"ratings": "0",
+		"price": "£134.99"
+	},
+	{
+		"name": "Cooler Master GeminII M4",
+		"fan-rpm": "500 - 1600 RPM",
+		"noise level": "8.0 - 30.0 dbA",
+		"ratings": "17",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Water 3.0 Performer C + LNC",
+		"fan-rpm": "1200 - 2000 RPM",
+		"noise level": "27.4 dbA",
+		"ratings": "1",
+		"price": "£44.94"
+	},
+	{
+		"name": "Silverstone AR05",
+		"fan-rpm": "2500 RPM",
+		"noise level": "20.0 - 28.3 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-T50 AXE (White)",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "18.9 - 25.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Corsair H80i GT",
+		"fan-rpm": "2435 RPM",
+		"noise level": "37.7 dbA",
+		"ratings": "28",
+		"price": ""
+	},
+	{
+		"name": "Enermax Liqmax II 240",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "16.0 - 35.0 dbA",
+		"ratings": "5",
+		"price": "£83.26"
+	},
+	{
+		"name": "Thermalright TRUE Spirit 140 POWER",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master GeminII S524 Ver 2",
+		"fan-rpm": "2000 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "3",
+		"price": "£37.04"
+	},
+	{
+		"name": "Noctua NH-U12P SE2",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "12.6 - 19.8 dbA",
+		"ratings": "10",
+		"price": ""
+	},
+	{
+		"name": "Deepcool GAMMAXX 200T",
+		"fan-rpm": "900 - 1600 RPM",
+		"noise level": "17.8 - 26.1 dbA",
+		"ratings": "1",
+		"price": "£17.75"
+	},
+	{
+		"name": "Cooler Master Seidon 240V",
+		"fan-rpm": "800 - 2400 RPM",
+		"noise level": "12.0 - 35.0 dbA",
+		"ratings": "0",
+		"price": "£44.99"
+	},
+	{
+		"name": "ARCTIC Freezer i32",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "2",
+		"price": "£26.14"
+	},
+	{
+		"name": "Intel BXTS13X",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "21.0 - 35.0 dbA",
+		"ratings": "0",
+		"price": "£93.00"
+	},
+	{
+		"name": "Phanteks PH-TC14PE",
+		"fan-rpm": "700 - 1200 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "10",
+		"price": "£59.92"
+	},
+	{
+		"name": "Corsair H110i GT",
+		"fan-rpm": "2100 RPM",
+		"noise level": "43.0 dbA",
+		"ratings": "25",
+		"price": "£129.99"
+	},
+	{
+		"name": "Thermaltake CLP0534",
+		"fan-rpm": "1200 - 2400 RPM",
+		"noise level": "20.0 - 26.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool NI2011E-9525EP",
+		"fan-rpm": "1000 - 3000 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master V6 GT",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "15.0 - 38.0 dbA",
+		"ratings": "14",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer 33 Plus",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£31.99"
+	},
+	{
+		"name": "ID-COOLING FROSTFLOW 240L-W",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "20.0 - 38.2 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Scythe FUMA",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "13.0 - 28.0 dbA",
+		"ratings": "4",
+		"price": "£54.33"
+	},
+	{
+		"name": "Intel BXRTS2011LC",
+		"fan-rpm": "2200 RPM",
+		"noise level": "N/A",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master MasterLiquid Pro 140",
+		"fan-rpm": "650 - 2000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": "£54.99"
+	},
+	{
+		"name": "Zalman CNPS5X Performa",
+		"fan-rpm": "1400 - 2800 RPM",
+		"noise level": "20.0 - 32.0 dbA",
+		"ratings": "31",
+		"price": "£16.59"
+	},
+	{
+		"name": "be quiet! Dark Rock Advanced C1",
+		"fan-rpm": "1500 RPM",
+		"noise level": "6.6 - 18.8 dbA",
+		"ratings": "5",
+		"price": "£50.83"
+	},
+	{
+		"name": "Thermaltake Gravity i2",
+		"fan-rpm": "1800 RPM",
+		"noise level": "21.3 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Le Grand Macho RT",
+		"fan-rpm": "300 - 1300 RPM",
+		"noise level": "14.0 - 20.0 dbA",
+		"ratings": "0",
+		"price": "£80.49"
+	},
+	{
+		"name": "NZXT Kraken X41",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "20.0 - 37.0 dbA",
+		"ratings": "25",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer i11",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "22.5 dbA",
+		"ratings": "4",
+		"price": "£19.50"
+	},
+	{
+		"name": "ARCTIC Freezer 11 LP",
+		"fan-rpm": "900 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "3",
+		"price": "£13.99"
+	},
+	{
+		"name": "be quiet! Silent Loop 280",
+		"fan-rpm": "1600 RPM",
+		"noise level": "16.1 - 37.3 dbA",
+		"ratings": "3",
+		"price": "£123.00"
+	},
+	{
+		"name": "Noctua NH-U12S TR4-SP3",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "18.6 - 22.4 dbA",
+		"ratings": "0",
+		"price": "£68.99"
+	},
+	{
+		"name": "Cooler Master DP6-9EDSA-0L-GP",
+		"fan-rpm": "2600 RPM",
+		"noise level": "24.5 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "LEPA AquaChanger 120",
+		"fan-rpm": "500 - 2300 RPM",
+		"noise level": "14.0 - 35.0 dbA",
+		"ratings": "10",
+		"price": "£67.53"
+	},
+	{
+		"name": "Thermaltake CLP0556",
+		"fan-rpm": "1900 - 2300 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions SnowStorm",
+		"fan-rpm": "900 - 2200 RPM",
+		"noise level": "0.1 - 24.1 dbA",
+		"ratings": "0",
+		"price": "£27.45"
+	},
+	{
+		"name": "Cooler Master Hyper 412S",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "16.1 - 22.5 dbA",
+		"ratings": "0",
+		"price": "£31.26"
+	},
+	{
+		"name": "Noctua NH-L9a",
+		"fan-rpm": "2500 RPM",
+		"noise level": "N/A",
+		"ratings": "9",
+		"price": "£35.99"
+	},
+	{
+		"name": "Phanteks PH-TC12LS_BK",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "25.0 dbA",
+		"ratings": "5",
+		"price": "£31.99"
+	},
+	{
+		"name": "Alphacool Eisbaer 360",
+		"fan-rpm": "550 - 1700 RPM",
+		"noise level": "29.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone AR06",
+		"fan-rpm": "2500 RPM",
+		"noise level": "20.0 - 28.3 dbA",
+		"ratings": "7",
+		"price": "£34.99"
+	},
+	{
+		"name": "RAIJINTEK ZELOS",
+		"fan-rpm": "800 - 1400 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "0",
+		"price": "£14.99"
+	},
+	{
+		"name": "Thermaltake Frio Silent 12",
+		"fan-rpm": "1400 RPM",
+		"noise level": "12.0 - 19.2 dbA",
+		"ratings": "3",
+		"price": "£44.11"
+	},
+	{
+		"name": "Rosewill RCX-Z300",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "7",
+		"price": ""
+	},
+	{
+		"name": "Deepcool Ice Edge Mini FS V2.0",
+		"fan-rpm": "2200 RPM",
+		"noise level": "24.7 dbA",
+		"ratings": "0",
+		"price": "£7.79"
+	},
+	{
+		"name": "Deepcool GABRIEL",
+		"fan-rpm": "900 - 1800 RPM",
+		"noise level": "18.2 - 32.4 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Silverstone NT06-PRO",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "N/A",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK AIDOS BLACK",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "28.9 dbA",
+		"ratings": "4",
+		"price": "£19.99"
+	},
+	{
+		"name": "Deepcool ASSASSIN II",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "17.8 - 27.3 dbA",
+		"ratings": "1",
+		"price": "£59.99"
+	},
+	{
+		"name": "Thermaltake CL-P0497",
+		"fan-rpm": "2500 RPM",
+		"noise level": "27.0 dbA",
+		"ratings": "3",
+		"price": "£13.58"
+	},
+	{
+		"name": "SilenX EFZ-92HA2",
+		"fan-rpm": "2400 RPM",
+		"noise level": "8.0 - 24.0 dbA",
+		"ratings": "0",
+		"price": "£17.04"
+	},
+	{
+		"name": "Scythe SCNJ-4000",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "4.0 - 29.5 dbA",
+		"ratings": "0",
+		"price": "£48.03"
+	},
+	{
+		"name": "ARCTIC Alpine 64 Pro Rev 2",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "1",
+		"price": "£8.99"
+	},
+	{
+		"name": "Thermaltake Water 3.0 Extreme",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "6",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-T40F-TB",
+		"fan-rpm": "900 - 1800 RPM",
+		"noise level": "11.0 - 21.0 dbA",
+		"ratings": "3",
+		"price": "£39.93"
+	},
+	{
+		"name": "Thermaltake CLP0600",
+		"fan-rpm": "1000 - 2400 RPM",
+		"noise level": "19.3 - 30.0 dbA",
+		"ratings": "2",
+		"price": "£17.50"
+	},
+	{
+		"name": "Deepcool LUCIFER",
+		"fan-rpm": "700 - 1400 RPM",
+		"noise level": "17.8 - 31.1 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Zalman Reserator 3 MAX Dual",
+		"fan-rpm": "1000 - 2300 RPM",
+		"noise level": "23.2 - 46.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Intel BXXTS100H",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "20.0 - 35.0 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Thermalright HR-02 Rev.A(BW)",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master MasterAir Pro 3",
+		"fan-rpm": "650 - 3000 RPM",
+		"noise level": "6.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": "£26.74"
+	},
+	{
+		"name": "Noctua NH-C14",
+		"fan-rpm": "750 - 1200 RPM",
+		"noise level": "10.1 - 19.6 dbA",
+		"ratings": "8",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer 13",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "7",
+		"price": "£23.19"
+	},
+	{
+		"name": "ARCTIC Freezer Xtreme",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "2",
+		"price": "£29.49"
+	},
+	{
+		"name": "ID-COOLING ICEKIMO 120W",
+		"fan-rpm": "2500 RPM",
+		"noise level": "18.0 - 26.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Hyper 212 Plus",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "13.0 - 32.0 dbA",
+		"ratings": "136",
+		"price": ""
+	},
+	{
+		"name": "Scythe Shuriken Rev. B 3",
+		"fan-rpm": "650 - 2200 RPM",
+		"noise level": "10.5 - 31.7 dbA",
+		"ratings": "1",
+		"price": "£32.97"
+	},
+	{
+		"name": "Gelid Solutions CC-Siberian-01",
+		"fan-rpm": "900 - 2200 RPM",
+		"noise level": "10.0 - 22.5 dbA",
+		"ratings": "5",
+		"price": "£24.04"
+	},
+	{
+		"name": "Deepcool Maelstrom 120T",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "17.8 - 34.1 dbA",
+		"ratings": "3",
+		"price": "£39.00"
+	},
+	{
+		"name": "Phanteks PH-TC14PE_BK",
+		"fan-rpm": "900 - 1200 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "26",
+		"price": "£59.99"
+	},
+	{
+		"name": "Alphacool Eisbaer 240",
+		"fan-rpm": "550 - 1700 RPM",
+		"noise level": "29.0 dbA",
+		"ratings": "0",
+		"price": "£100.08"
+	},
+	{
+		"name": "RAIJINTEK RHEA",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "27.9 dbA",
+		"ratings": "2",
+		"price": "£15.95"
+	},
+	{
+		"name": "ARCTIC Freezer 12",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£19.98"
+	},
+	{
+		"name": "Scythe Mugen 4",
+		"fan-rpm": "400 - 1400 RPM",
+		"noise level": "5.3 - 28.0 dbA",
+		"ratings": "2",
+		"price": "£45.37"
+	},
+	{
+		"name": "SilenX EFZ-100HA2",
+		"fan-rpm": "2400 RPM",
+		"noise level": "8.0 - 24.0 dbA",
+		"ratings": "1",
+		"price": "£15.26"
+	},
+	{
+		"name": "Titan DC-155A915Z/RPW",
+		"fan-rpm": "1000 - 2600 RPM",
+		"noise level": "24.8 - 33.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Antec A30",
+		"fan-rpm": "1750 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Deepcool CAPTAIN 240 WHITE",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "17.6 - 39.3 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Alpine 20 PLUS CO",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£13.67"
+	},
+	{
+		"name": "Deepcool GAMMAXX 200",
+		"fan-rpm": "900 - 2200 RPM",
+		"noise level": "17.8 - 34.6 dbA",
+		"ratings": "2",
+		"price": "£15.99"
+	},
+	{
+		"name": "Cooler Master RR-T612-20PK-R1",
+		"fan-rpm": "2000 RPM",
+		"noise level": "9.0 - 36.0 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Reeven Brontes RC-1001b",
+		"fan-rpm": "650 - 2200 RPM",
+		"noise level": "10.5 - 31.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS8000B",
+		"fan-rpm": "1400 - 2800 RPM",
+		"noise level": "20.0 - 32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Alpenföhn Brocken ECO",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "4.6 - 27.3 dbA",
+		"ratings": "1",
+		"price": "£29.99"
+	},
+	{
+		"name": "ID-COOLING FROSTFLOW 240L-R",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "20.0 - 38.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "SilentiumPC Spartan LT HE922",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "9.9 - 21.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Corsair H80",
+		"fan-rpm": "1300 - 2500 RPM",
+		"noise level": "22.0 - 39.0 dbA",
+		"ratings": "28",
+		"price": ""
+	},
+	{
+		"name": "Corsair H70",
+		"fan-rpm": "1600 - 2000 RPM",
+		"noise level": "26.0 - 31.5 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Swiftech H220-X",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.0 - 33.0 dbA",
+		"ratings": "12",
+		"price": ""
+	},
+	{
+		"name": "Scythe BIG Shuriken 2 Rev. B",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "9.3 - 33.7 dbA",
+		"ratings": "16",
+		"price": "£49.10"
+	},
+	{
+		"name": "Thermaltake CL-P0503",
+		"fan-rpm": "2900 RPM",
+		"noise level": "29.6 dbA",
+		"ratings": "2",
+		"price": "£11.87"
+	},
+	{
+		"name": "Cooler Master Hyper 103",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "17.0 - 30.0 dbA",
+		"ratings": "9",
+		"price": "£19.98"
+	},
+	{
+		"name": "Phononic HEX 2.0",
+		"fan-rpm": "1000 - 2650 RPM",
+		"noise level": "17.0 - 33.0 dbA",
+		"ratings": "0",
+		"price": "£102.46"
+	},
+	{
+		"name": "Silverstone TD02-E",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "18.0 - 35.0 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Phanteks PH-TC14S_BK",
+		"fan-rpm": "500 - 1600 RPM",
+		"noise level": "25.3 dbA",
+		"ratings": "6",
+		"price": "£44.99"
+	},
+	{
+		"name": "Swiftech H140-X",
+		"fan-rpm": "700 - 1800 RPM",
+		"noise level": "8.3 - 28.8 dbA",
+		"ratings": "0",
+		"price": "£105.00"
+	},
+	{
+		"name": "Prolimatech PRO-SAM17",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "2",
+		"price": "£34.99"
+	},
+	{
+		"name": "Cooler Master Seidon 240P",
+		"fan-rpm": "800 - 2400 RPM",
+		"noise level": "12.0 - 35.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright TRUE Spirit 140 Direct",
+		"fan-rpm": "300 - 1300 RPM",
+		"noise level": "15.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCKTN-4000",
+		"fan-rpm": "300 - 2500 RPM",
+		"noise level": "7.2 - 31.1 dbA",
+		"ratings": "1",
+		"price": "£24.95"
+	},
+	{
+		"name": "Zalman CNPS7000V(AL)-1-PWM",
+		"fan-rpm": "800 - 2600 RPM",
+		"noise level": "20.0 - 32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Intel BXTS13A",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£18.99"
+	},
+	{
+		"name": "Scythe Mugen MAX",
+		"fan-rpm": "500 - 1300 RPM",
+		"noise level": "13.0 - 30.7 dbA",
+		"ratings": "1",
+		"price": "£42.95"
+	},
+	{
+		"name": "Antec Kühler H600 Pro",
+		"fan-rpm": "600 - 2400 RPM",
+		"noise level": "16.0 - 35.0 dbA",
+		"ratings": "1",
+		"price": "£44.49"
+	},
+	{
+		"name": "Thermaltake Riing Silent 12 Red",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "13.0 - 18.0 dbA",
+		"ratings": "4",
+		"price": "£33.95"
+	},
+	{
+		"name": "Fractal Design Kelvin S24",
+		"fan-rpm": "800 - 1700 RPM",
+		"noise level": "26.9 dbA",
+		"ratings": "0",
+		"price": "£58.94"
+	},
+	{
+		"name": "ARCTIC Alpine M1 - Passive",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "2",
+		"price": "£9.67"
+	},
+	{
+		"name": "Deepcool GAMMAXX S40",
+		"fan-rpm": "900 - 1600 RPM",
+		"noise level": "17.8 - 26.1 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Antec KUHLER H2O 650",
+		"fan-rpm": "600 - 2400 RPM",
+		"noise level": "N/A",
+		"ratings": "7",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK AIDOS",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "28.9 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Phanteks PH-TC90LS",
+		"fan-rpm": "1000 - 2500 RPM",
+		"noise level": "19.0 - 26.0 dbA",
+		"ratings": "3",
+		"price": "£34.20"
+	},
+	{
+		"name": "Silverstone NT07-AM2",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "15.0 - 25.0 dbA",
+		"ratings": "0",
+		"price": "£11.25"
+	},
+	{
+		"name": "ARCTIC Alpine 11",
+		"fan-rpm": "900 - 2000 RPM",
+		"noise level": "14.0 dbA",
+		"ratings": "1",
+		"price": "£14.47"
+	},
+	{
+		"name": "Dynatron K5",
+		"fan-rpm": "1000 - 2500 RPM",
+		"noise level": "14.7 - 29.8 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Alpenföhn Silvretta",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£14.99"
+	},
+	{
+		"name": "Alpenföhn Sella",
+		"fan-rpm": "850 - 2200 RPM",
+		"noise level": "14.0 - 29.8 dbA",
+		"ratings": "0",
+		"price": "£13.14"
+	},
+	{
+		"name": "Reeven Okeanos",
+		"fan-rpm": "300 - 1800 RPM",
+		"noise level": "4.0 - 23.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman LQ-315",
+		"fan-rpm": "900 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer A11",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "22.5 dbA",
+		"ratings": "5",
+		"price": "£20.03"
+	},
+	{
+		"name": "ID-COOLING IS-VC45",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "14.0 - 33.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "EVGA ACX",
+		"fan-rpm": "2800 RPM",
+		"noise level": "42.5 dbA",
+		"ratings": "0",
+		"price": "£61.13"
+	},
+	{
+		"name": "Zalman CNPS90F",
+		"fan-rpm": "2300 RPM",
+		"noise level": "29.0 dbA",
+		"ratings": "0",
+		"price": "£13.66"
+	},
+	{
+		"name": "Phanteks PH-TC14CS",
+		"fan-rpm": "700 - 1200 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "0",
+		"price": "£59.93"
+	},
+	{
+		"name": "ARCTIC Freezer 33 eSports Edition (Black/Green)",
+		"fan-rpm": "200 - 1800 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "0",
+		"price": "£49.34"
+	},
+	{
+		"name": "ARCTIC Freezer 33 eSports Edition (Black/Yellow)",
+		"fan-rpm": "200 - 1800 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "0",
+		"price": "£49.34"
+	},
+	{
+		"name": "Cooler Master Nepton 140XL",
+		"fan-rpm": "2000 RPM",
+		"noise level": "21.0 - 39.0 dbA",
+		"ratings": "7",
+		"price": "£69.95"
+	},
+	{
+		"name": "Thermaltake Water 3.0 Pro",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "3",
+		"price": "£81.76"
+	},
+	{
+		"name": "NoFan CR-95C",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-214X",
+		"fan-rpm": "1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "LEPA LPALV12-BK",
+		"fan-rpm": "2200 RPM",
+		"noise level": "23.0 dbA",
+		"ratings": "1",
+		"price": "£37.52"
+	},
+	{
+		"name": "Thermaltake A1964",
+		"fan-rpm": "5500 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Deepcool NEPTWIN",
+		"fan-rpm": "900 - 1500 RPM",
+		"noise level": "17.8 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Seidon 240M",
+		"fan-rpm": "600 - 2400 RPM",
+		"noise level": "19.0 - 40.0 dbA",
+		"ratings": "21",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Blizzard T2",
+		"fan-rpm": "2200 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Swiftech H320",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.0 - 33.0 dbA",
+		"ratings": "6",
+		"price": ""
+	},
+	{
+		"name": "Intel BXTS15A",
+		"fan-rpm": "1000 - 3850 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£34.18"
+	},
+	{
+		"name": "Thermaltake Engine 27",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "13.0 - 25.0 dbA",
+		"ratings": "3",
+		"price": "£44.36"
+	},
+	{
+		"name": "Phanteks PH-TC12DX",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "21.9 - 27.6 dbA",
+		"ratings": "9",
+		"price": "£42.95"
+	},
+	{
+		"name": "LEPA EXllusion 240",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "14.0 - 30.0 dbA",
+		"ratings": "1",
+		"price": "£107.47"
+	},
+	{
+		"name": "RAIJINTEK EREBOSS CORE EDITION",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£33.95"
+	},
+	{
+		"name": "Scythe SCKZT-1000",
+		"fan-rpm": "800 - 3300 RPM",
+		"noise level": "8.2 - 32.5 dbA",
+		"ratings": "0",
+		"price": "£27.95"
+	},
+	{
+		"name": "Noctua NH-D9DX i4 3U",
+		"fan-rpm": "400 - 2000 RPM",
+		"noise level": "16.3 - 22.8 dbA",
+		"ratings": "2",
+		"price": "£49.99"
+	},
+	{
+		"name": "Thermaltake CL-P0466",
+		"fan-rpm": "1000 - 1600 RPM",
+		"noise level": "19.0 - 28.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Deepcool NEPTWIN V2.0",
+		"fan-rpm": "1300 RPM",
+		"noise level": "26.6 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Water 3.0 Performer",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "5",
+		"price": "£63.31"
+	},
+	{
+		"name": "Zalman FX100",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£66.34"
+	},
+	{
+		"name": "Alpenföhn BEN NEVIS",
+		"fan-rpm": "400 - 1600 RPM",
+		"noise level": "8.0 - 20.2 dbA",
+		"ratings": "0",
+		"price": "£21.95"
+	},
+	{
+		"name": "ARCTIC Freezer i32 CO",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "1",
+		"price": "£31.94"
+	},
+	{
+		"name": "Cooler Master V8 Ver.2",
+		"fan-rpm": "1600 RPM",
+		"noise level": "36.0 dbA",
+		"ratings": "0",
+		"price": "£79.99"
+	},
+	{
+		"name": "Zalman CNPS9500 AT",
+		"fan-rpm": "1300 - 2650 RPM",
+		"noise level": "18.0 - 27.5 dbA",
+		"ratings": "9",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Riing Silent 12 Pro Blue",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "12.0 - 19.0 dbA",
+		"ratings": "0",
+		"price": "£45.46"
+	},
+	{
+		"name": "Silverstone NT07-115X",
+		"fan-rpm": "1200 - 3400 RPM",
+		"noise level": "18.0 - 26.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS9900ALED",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "18.0 - 38.0 dbA",
+		"ratings": "7",
+		"price": ""
+	},
+	{
+		"name": "Deepcool Maelstrom 240",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "17.6 - 39.3 dbA",
+		"ratings": "2",
+		"price": "£72.46"
+	},
+	{
+		"name": "Deepcool CAPTAIN 120 WHITE",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "17.6 - 39.3 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Antec KUHLER H2O 1250",
+		"fan-rpm": "600 - 2400 RPM",
+		"noise level": "16.0 - 38.0 dbA",
+		"ratings": "0",
+		"price": "£85.99"
+	},
+	{
+		"name": "Akasa K32",
+		"fan-rpm": "600 - 3000 RPM",
+		"noise level": "17.2 - 30.5 dbA",
+		"ratings": "1",
+		"price": "£9.47"
+	},
+	{
+		"name": "ARCTIC Freezer 12 CO",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£24.24"
+	},
+	{
+		"name": "Noctua NH-U9DO A3",
+		"fan-rpm": "1000 - 1600 RPM",
+		"noise level": "7.9 - 17.6 dbA",
+		"ratings": "0",
+		"price": "£70.88"
+	},
+	{
+		"name": "Antec A40PRO",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "16.0 - 23.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-T40F-BK",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.0 - 26.0 dbA",
+		"ratings": "3",
+		"price": "£45.41"
+	},
+	{
+		"name": "Thermaltake NiC C5",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "20.0 - 39.9 dbA",
+		"ratings": "6",
+		"price": "£63.84"
+	},
+	{
+		"name": "CRYORIG A80",
+		"fan-rpm": "600 - 1850 RPM",
+		"noise level": "13.0 - 38.0 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R15",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe Kabuto 3",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "4.0 - 28.0 dbA",
+		"ratings": "0",
+		"price": "£54.46"
+	},
+	{
+		"name": "RAIJINTEK EreBoss",
+		"fan-rpm": "600 - 1400 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "1",
+		"price": "£35.99"
+	},
+	{
+		"name": "Prolimatech PRO-MGH-C",
+		"fan-rpm": "N/A",
+		"noise level": "26.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK THEMIS",
+		"fan-rpm": "1000 - 1500 RPM",
+		"noise level": "24.5 dbA",
+		"ratings": "2",
+		"price": "£22.57"
+	},
+	{
+		"name": "Enermax Liqtech 240",
+		"fan-rpm": "2500 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Hyper N520",
+		"fan-rpm": "N/A",
+		"noise level": "19.0 dbA",
+		"ratings": "23",
+		"price": ""
+	},
+	{
+		"name": "Phanteks PH-TC14PE_OR",
+		"fan-rpm": "700 - 1200 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Phanteks PH-TC12DX_RD",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "21.9 - 27.6 dbA",
+		"ratings": "9",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Hyper 612 PWM",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "9.0 - 36.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Phanteks PH-TC14PE_RD",
+		"fan-rpm": "700 - 1200 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Silverstone AR02",
+		"fan-rpm": "1200 - 2800 RPM",
+		"noise level": "16.0 - 24.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Deepcool LUCIFER K2",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "18.2 - 32.4 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Reeven Hans",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "4.0 - 29.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0587",
+		"fan-rpm": "1200 - 1800 RPM",
+		"noise level": "39.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Contac 39",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "15.0 - 33.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK TRITON GREEN",
+		"fan-rpm": "1000 - 2600 RPM",
+		"noise level": "21.6 - 36.6 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Thermalright TRUE Spirit 120M(BW) Rev.A",
+		"fan-rpm": "600 - 1300 RPM",
+		"noise level": "25.4 dbA",
+		"ratings": "2",
+		"price": "£47.31"
+	},
+	{
+		"name": "Dynatron R19",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Deepcool CAPTAIN 240",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "17.6 - 39.3 dbA",
+		"ratings": "9",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master V10 Hybrid TEC",
+		"fan-rpm": "800 - 2400 RPM",
+		"noise level": "17.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions Rev. 4 Tranquillo",
+		"fan-rpm": "750 - 1600 RPM",
+		"noise level": "12.0 - 26.7 dbA",
+		"ratings": "0",
+		"price": "£42.10"
+	},
+	{
+		"name": "Raidmax Cobra 240",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "21.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooltek LP53",
+		"fan-rpm": "1000 - 2100 RPM",
+		"noise level": "16.0 - 27.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "SilentiumPC Grandis XE1236",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "be quiet! Dark Rock Pro 2",
+		"fan-rpm": "1500 - 1700 RPM",
+		"noise level": "13.5 - 26.4 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "NZXT Kraken X60",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "21.0 - 37.0 dbA",
+		"ratings": "37",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING DK-01",
+		"fan-rpm": "800 - 2500 RPM",
+		"noise level": "12.0 - 28.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-902",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "14.0 - 23.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "NZXT Respire T40",
+		"fan-rpm": "1300 - 1800 RPM",
+		"noise level": "26.5 - 34.0 dbA",
+		"ratings": "9",
+		"price": ""
+	},
+	{
+		"name": "Thermalright HR-22",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Gemin II S524",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "15.1 - 31.6 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-N30-HE",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "16.0 - 28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Deepcool Maelstrom 240T RF",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "17.8 - 34.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS7700ALCULED",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "22.7 - 37.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Blizzard T2 mini",
+		"fan-rpm": "2200 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Macho-120",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Corsair A70",
+		"fan-rpm": "1600 - 2000 RPM",
+		"noise level": "26.0 - 31.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Seidon 120M",
+		"fan-rpm": "600 - 2400 RPM",
+		"noise level": "19.0 - 40.0 dbA",
+		"ratings": "43",
+		"price": ""
+	},
+	{
+		"name": "Deepcool ICE BLADE 100",
+		"fan-rpm": "2200 RPM",
+		"noise level": "31.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Intel BXRTS2011AC",
+		"fan-rpm": "1000 - 3000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright AXP-100R",
+		"fan-rpm": "900 - 2500 RPM",
+		"noise level": "22.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS11X Performa",
+		"fan-rpm": "1000 - 1600 RPM",
+		"noise level": "17.0 - 26.0 dbA",
+		"ratings": "1",
+		"price": "£39.99"
+	},
+	{
+		"name": "Cooler Master Hyper TX3",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "17.0 - 35.0 dbA",
+		"ratings": "106",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer 33",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "1",
+		"price": "£26.64"
+	},
+	{
+		"name": "Fractal Design Kelvin S36",
+		"fan-rpm": "800 - 1700 RPM",
+		"noise level": "26.9 dbA",
+		"ratings": "1",
+		"price": "£78.93"
+	},
+	{
+		"name": "CRYORIG A40 ULTIMATE",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "13.0 - 37.0 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "CRYORIG A40",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "13.0 - 37.0 dbA",
+		"ratings": "2",
+		"price": "£89.99"
+	},
+	{
+		"name": "Rosewill RCX-Z1",
+		"fan-rpm": "1700 - 3100 RPM",
+		"noise level": "18.0 - 33.4 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Macho Direct",
+		"fan-rpm": "300 - 1300 RPM",
+		"noise level": "15.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": "£62.84"
+	},
+	{
+		"name": "Silverstone TD03-LITE",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "18.0 - 35.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS2X",
+		"fan-rpm": "1500 - 2600 RPM",
+		"noise level": "17.4 - 22.7 dbA",
+		"ratings": "1",
+		"price": "£32.86"
+	},
+	{
+		"name": "RAIJINTEK PALLAS Black",
+		"fan-rpm": "650 - 1400 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "RIOTORO BIFROST 240",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Silver Arrow IB-E Extreme",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "21.0 - 45.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech PRO-GNSS-BK",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "1",
+		"price": "£101.33"
+	},
+	{
+		"name": "Silverstone AR01",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "16.4 - 33.5 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "Scythe Ashura",
+		"fan-rpm": "500 - 1300 RPM",
+		"noise level": "13.0 - 30.7 dbA",
+		"ratings": "1",
+		"price": "£39.95"
+	},
+	{
+		"name": "Zalman CNPS12X",
+		"fan-rpm": "850 - 1200 RPM",
+		"noise level": "22.0 - 24.0 dbA",
+		"ratings": "2",
+		"price": "£69.99"
+	},
+	{
+		"name": "ARCTIC Alpine M1",
+		"fan-rpm": "750 RPM",
+		"noise level": "20.5 dbA",
+		"ratings": "3",
+		"price": "£5.35"
+	},
+	{
+		"name": "Deepcool FROSTWIN V2.0",
+		"fan-rpm": "1600 RPM",
+		"noise level": "17.8 - 21.0 dbA",
+		"ratings": "0",
+		"price": "£42.11"
+	},
+	{
+		"name": "SilenX EFZ-80HA3",
+		"fan-rpm": "2200 RPM",
+		"noise level": "8.0 - 24.0 dbA",
+		"ratings": "1",
+		"price": "£19.93"
+	},
+	{
+		"name": "Zalman CNPS9900MAX-R",
+		"fan-rpm": "900 - 1700 RPM",
+		"noise level": "18.0 - 30.0 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Thors Hammer",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Riing Silent 12 Pro Red",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "12.0 - 19.0 dbA",
+		"ratings": "0",
+		"price": "£41.80"
+	},
+	{
+		"name": "Enermax ETS-T50 AXE (Black)",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "18.9 - 25.0 dbA",
+		"ratings": "0",
+		"price": "£57.61"
+	},
+	{
+		"name": "Silverstone TD03-E",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "18.0 - 35.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Evercool HPO-12025",
+		"fan-rpm": "1400 - 2200 RPM",
+		"noise level": "16.0 - 38.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone HE02",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer 33 CO",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£39.99"
+	},
+	{
+		"name": "Zalman CNPS8900 Quiet",
+		"fan-rpm": "1000 - 1500 RPM",
+		"noise level": "19.0 - 25.0 dbA",
+		"ratings": "8",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Nepton 120XL",
+		"fan-rpm": "2400 RPM",
+		"noise level": "6.5 - 27.0 dbA",
+		"ratings": "3",
+		"price": "£55.47"
+	},
+	{
+		"name": "RIOTORO BIFROST 120TI",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£82.75"
+	},
+	{
+		"name": "Thermalright Venomous X RT Rev.SB-E",
+		"fan-rpm": "700 - 1500 RPM",
+		"noise level": "17.0 - 28.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Deepcool LUCIFER V2",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "12.6 - 31.1 dbA",
+		"ratings": "0",
+		"price": "£45.99"
+	},
+	{
+		"name": "Thermaltake Frio Silent 14",
+		"fan-rpm": "700 - 1200 RPM",
+		"noise level": "12.0 - 19.3 dbA",
+		"ratings": "0",
+		"price": "£37.49"
+	},
+	{
+		"name": "Silverstone AR04",
+		"fan-rpm": "1500 - 3400 RPM",
+		"noise level": "18.0 - 26.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Deepcool Maelstrom 240T",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "17.8 - 34.1 dbA",
+		"ratings": "0",
+		"price": "£53.97"
+	},
+	{
+		"name": "Thermalright Macho X2 Limited Edition",
+		"fan-rpm": "800 RPM",
+		"noise level": "15.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Evercool HPL-815EP",
+		"fan-rpm": "1000 - 4000 RPM",
+		"noise level": "12.0 - 40.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Gravity A1",
+		"fan-rpm": "1800 RPM",
+		"noise level": "22.3 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone TD03-SLIM",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "16.5 - 27.4 dbA",
+		"ratings": "0",
+		"price": "£53.80"
+	},
+	{
+		"name": "Reeven Steropes RC-1206b",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "9.3 - 33.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman Reserator 3 MAX",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "18.9 - 36.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone Argon AR09-115XP",
+		"fan-rpm": "1200 - 5000 RPM",
+		"noise level": "18.0 - 42.5 dbA",
+		"ratings": "0",
+		"price": "£24.95"
+	},
+	{
+		"name": "Dynatron R8",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS9900MAX-B",
+		"fan-rpm": "900 - 1700 RPM",
+		"noise level": "18.0 - 30.0 dbA",
+		"ratings": "21",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Silver Arrow ITX",
+		"fan-rpm": "300 - 1300 RPM",
+		"noise level": "17.0 - 24.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "StarTech FAN775E",
+		"fan-rpm": "2600 RPM",
+		"noise level": "22.2 dbA",
+		"ratings": "0",
+		"price": "£10.88"
+	},
+	{
+		"name": "Enermax ETS-T40F-RF",
+		"fan-rpm": "500 - 1200 RPM",
+		"noise level": "10.0 - 19.0 dbA",
+		"ratings": "0",
+		"price": "£47.20"
+	},
+	{
+		"name": "Dynatron R17",
+		"fan-rpm": "1000 - 2500 RPM",
+		"noise level": "17.0 - 31.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Fractal Design Kelvin T12",
+		"fan-rpm": "800 - 1700 RPM",
+		"noise level": "26.9 dbA",
+		"ratings": "1",
+		"price": "£69.95"
+	},
+	{
+		"name": "Gelid Solutions Slimhero",
+		"fan-rpm": "750 - 1600 RPM",
+		"noise level": "12.0 - 25.4 dbA",
+		"ratings": "1",
+		"price": "£34.47"
+	},
+	{
+		"name": "Antec C40",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "16.0 - 23.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "StarTech FAN1156PWM",
+		"fan-rpm": "1000 - 3000 RPM",
+		"noise level": "33.0 dbA",
+		"ratings": "0",
+		"price": "£18.48"
+	},
+	{
+		"name": "Antec KUHLER H2O 950",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Alpenföhn Matterhorn Rev. C – White Edition",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "18.2 dbA",
+		"ratings": "0",
+		"price": "£46.99"
+	},
+	{
+		"name": "ID-COOLING IS-50",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "13.8 - 30.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Phanteks PH-TC14CS_BL",
+		"fan-rpm": "700 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "0",
+		"price": "£59.99"
+	},
+	{
+		"name": "Silverstone NT08-115X",
+		"fan-rpm": "1200 - 3500 RPM",
+		"noise level": "21.6 - 62.9 dbA",
+		"ratings": "0",
+		"price": "£16.99"
+	},
+	{
+		"name": "SilenX EFZ-92HA3",
+		"fan-rpm": "2000 RPM",
+		"noise level": "8.0 - 24.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Reeven Vanxie",
+		"fan-rpm": "800 - 3300 RPM",
+		"noise level": "8.2 - 32.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions CC-Ssilence-APLUS",
+		"fan-rpm": "1200 - 2600 RPM",
+		"noise level": "15.0 - 27.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer 33 PENTA",
+		"fan-rpm": "120 - 1350 RPM",
+		"noise level": "22.5 dbA",
+		"ratings": "0",
+		"price": "£32.62"
+	},
+	{
+		"name": "ARCTIC Alpine 11 - Passive",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£10.29"
+	},
+	{
+		"name": "Reeven Ouranos",
+		"fan-rpm": "300 - 1700 RPM",
+		"noise level": "5.8 - 36.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "NoFan CR-80EH",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "1",
+		"price": "£47.46"
+	},
+	{
+		"name": "ARCTIC Freezer i30 Extreme",
+		"fan-rpm": "400 - 1350 RPM",
+		"noise level": "N/A",
+		"ratings": "1",
+		"price": "£35.79"
+	},
+	{
+		"name": "Dynatron R13",
+		"fan-rpm": "1100 - 6000 RPM",
+		"noise level": "19.1 - 53.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys IC211HTPC",
+		"fan-rpm": "2600 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions CC-SSilence-iplus",
+		"fan-rpm": "1200 - 2600 RPM",
+		"noise level": "15.0 - 27.8 dbA",
+		"ratings": "0",
+		"price": "£23.09"
+	},
+	{
+		"name": "Zalman CNPS11X Extreme",
+		"fan-rpm": "1000 - 1950 RPM",
+		"noise level": "17.0 - 33.0 dbA",
+		"ratings": "1",
+		"price": "£51.80"
+	},
+	{
+		"name": "Akasa Venom Voodoo",
+		"fan-rpm": "600 - 1900 RPM",
+		"noise level": "6.9 - 28.9 dbA",
+		"ratings": "1",
+		"price": "£44.99"
+	},
+	{
+		"name": "RAIJINTEK PALLAS Red",
+		"fan-rpm": "650 - 1400 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "3",
+		"price": "£38.99"
+	},
+	{
+		"name": "ARCTIC Freezer 13 Limited Edition",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "1",
+		"price": "£38.80"
+	},
+	{
+		"name": "Evercool HPKC-10025EA",
+		"fan-rpm": "1800 RPM",
+		"noise level": "23.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Silverstone NT09-115X",
+		"fan-rpm": "550 - 2500 RPM",
+		"noise level": "18.5 - 32.0 dbA",
+		"ratings": "0",
+		"price": "£15.95"
+	},
+	{
+		"name": "Silverstone Argon AR10-115XP",
+		"fan-rpm": "500 - 4000 RPM",
+		"noise level": "18.1 - 39.0 dbA",
+		"ratings": "0",
+		"price": "£29.99"
+	},
+	{
+		"name": "Thermaltake NiC L31",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "18.0 - 34.8 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS10X Extreme",
+		"fan-rpm": "1000 - 2150 RPM",
+		"noise level": "20.0 - 39.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Masscool 8W501B1M3G",
+		"fan-rpm": "2400 RPM",
+		"noise level": "26.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Titan TTC-NC85TZ(RB)",
+		"fan-rpm": "210 - 2100 RPM",
+		"noise level": "28.8 dbA",
+		"ratings": "0",
+		"price": "£49.42"
+	},
+	{
+		"name": "Gelid Solutions CC-Ssilence-AM1",
+		"fan-rpm": "1200 - 2600 RPM",
+		"noise level": "15.0 - 27.2 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Akasa Venom Medusa",
+		"fan-rpm": "500 - 1600 RPM",
+		"noise level": "6.9 - 28.9 dbA",
+		"ratings": "0",
+		"price": "£55.73"
+	},
+	{
+		"name": "Antec C400",
+		"fan-rpm": "800 - 1900 RPM",
+		"noise level": "20.3 - 34.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake NiC L32",
+		"fan-rpm": "500 - 1800 RPM",
+		"noise level": "18.0 - 38.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Frio",
+		"fan-rpm": "1200 - 2500 RPM",
+		"noise level": "20.0 - 43.0 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master DK9-7E52A-0L-GP",
+		"fan-rpm": "3200 RPM",
+		"noise level": "25.2 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech Basic 48",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Contac 16",
+		"fan-rpm": "2400 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "1",
+		"price": "£19.20"
+	},
+	{
+		"name": "RAIJINTEK TRITON RED",
+		"fan-rpm": "1000 - 2600 RPM",
+		"noise level": "21.6 - 36.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech Basic 65",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R24",
+		"fan-rpm": "1500 - 7000 RPM",
+		"noise level": "16.0 - 47.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETD-T60-TB",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "10.0 - 21.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R27",
+		"fan-rpm": "1000 - 3800 RPM",
+		"noise level": "16.0 - 43.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer i11 CO",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£27.47"
+	},
+	{
+		"name": "Thermaltake Frio OCK",
+		"fan-rpm": "1200 - 2100 RPM",
+		"noise level": "21.0 - 48.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Noctua NH-U9DX 1366",
+		"fan-rpm": "1000 - 1600 RPM",
+		"noise level": "7.9 - 17.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCKC-3000",
+		"fan-rpm": "500 - 1300 RPM",
+		"noise level": "13.0 - 30.7 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R25",
+		"fan-rpm": "1000 - 7000 RPM",
+		"noise level": "21.5 - 59.1 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "FSP Group Windale 6",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright MACHO 120 REV.A",
+		"fan-rpm": "600 - 1300 RPM",
+		"noise level": "25.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone Argon AR09-115XS",
+		"fan-rpm": "1200 - 5000 RPM",
+		"noise level": "18.0 - 42.5 dbA",
+		"ratings": "0",
+		"price": "£26.99"
+	},
+	{
+		"name": "Thermaltake Water 2.0 Performer",
+		"fan-rpm": "1200 - 2000 RPM",
+		"noise level": "10.0 - 27.4 dbA",
+		"ratings": "10",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Silver Arrow",
+		"fan-rpm": "500 - 1300 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Antec KUHLER Box",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£46.41"
+	},
+	{
+		"name": "Evercool NI01-9525EP",
+		"fan-rpm": "2600 RPM",
+		"noise level": "33.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool HPFI-10025",
+		"fan-rpm": "1800 RPM",
+		"noise level": "23.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0607",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "20.0 - 39.9 dbA",
+		"ratings": "2",
+		"price": "£54.99"
+	},
+	{
+		"name": "OcUK 240mm Extreme",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Alpenföhn Matterhorn Pure",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "8.0 - 24.8 dbA",
+		"ratings": "0",
+		"price": "£33.95"
+	},
+	{
+		"name": "Phanteks PH-TC14CS_RD",
+		"fan-rpm": "1300 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCBSK-2000",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC4005IB",
+		"fan-rpm": "900 - 1500 RPM",
+		"noise level": "21.4 - 32.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R16",
+		"fan-rpm": "1000 - 6000 RPM",
+		"noise level": "21.5 - 55.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool HPQ-12025",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "38.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool TTC-NK35TZ/RPW/V3",
+		"fan-rpm": "900 - 2800 RPM",
+		"noise level": "12.0 - 31.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-T40-TB",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "10.0 - 21.0 dbA",
+		"ratings": "12",
+		"price": ""
+	},
+	{
+		"name": "Corsair H50",
+		"fan-rpm": "1700 RPM",
+		"noise level": "30.3 dbA",
+		"ratings": "7",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-213i",
+		"fan-rpm": "800 - 1600 RPM",
+		"noise level": "16.0 - 20.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer i30",
+		"fan-rpm": "400 - 1350 RPM",
+		"noise level": "22.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Enermax Liqtech 120X",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "15.0 - 30.0 dbA",
+		"ratings": "1",
+		"price": "£94.54"
+	},
+	{
+		"name": "Thermalright Macho Rev.A(BW)",
+		"fan-rpm": "300 - 1300 RPM",
+		"noise level": "15.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "StarTech FANK8AM2",
+		"fan-rpm": "2600 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Dark Knight SD1483 Night Hawk",
+		"fan-rpm": "800 - 1200 RPM",
+		"noise level": "18.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "FSP Group Windale 6",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Macho Zero",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R12",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone TD03",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "16.0 - 33.5 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Deepcool CAPTAIN 120",
+		"fan-rpm": "600 - 2200 RPM",
+		"noise level": "17.6 - 39.3 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Silver Arrow Extreme",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "21.0 - 45.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Hyper 412 Slim",
+		"fan-rpm": "500 - 1600 RPM",
+		"noise level": "8.0 - 30.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCMG-3000",
+		"fan-rpm": "300 - 1600 RPM",
+		"noise level": "0.0 - 26.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer A30",
+		"fan-rpm": "400 - 1350 RPM",
+		"noise level": "N/A",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm ZT-1000D 1156",
+		"fan-rpm": "3000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Alpenföhn Brocken 2",
+		"fan-rpm": "1100 RPM",
+		"noise level": "19.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Alpenföhn Olymp",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "8.0 - 26.8 dbA",
+		"ratings": "0",
+		"price": "£57.36"
+	},
+	{
+		"name": "ARCTIC Alpine 7 GT",
+		"fan-rpm": "2000 RPM",
+		"noise level": "0.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone Tundra TD02-SLIM",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "16.5 - 27.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek ld964",
+		"fan-rpm": "1000 - 2800 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech Basic 81",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Apache II",
+		"fan-rpm": "1200 - 2500 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCMG-3100",
+		"fan-rpm": "300 - 1600 RPM",
+		"noise level": "9.6 - 32.1 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Logisys IC207",
+		"fan-rpm": "2500 RPM",
+		"noise level": "25.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC3001IE",
+		"fan-rpm": "900 - 2200 RPM",
+		"noise level": "17.8 - 34.6 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermalright TRUE Spirit 140 (BW)",
+		"fan-rpm": "300 - 1300 RPM",
+		"noise level": "15.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLW0214",
+		"fan-rpm": "1200 - 2500 RPM",
+		"noise level": "20.0 - 43.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK TRITON",
+		"fan-rpm": "1000 - 2600 RPM",
+		"noise level": "21.6 - 36.6 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Alpine 7 Pro",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "SilentiumPC SPC130",
+		"fan-rpm": "500 - 1400 RPM",
+		"noise level": "8.0 - 22.0 dbA",
+		"ratings": "0",
+		"price": "£41.10"
+	},
+	{
+		"name": "Thermalright TS-120M",
+		"fan-rpm": "700 - 1500 RPM",
+		"noise level": "17.0 - 28.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions Slim Silence AM2",
+		"fan-rpm": "1200 - 2500 RPM",
+		"noise level": "15.0 - 27.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright U120eXtrem1366RT R-C",
+		"fan-rpm": "1600 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions Slim Silence 775",
+		"fan-rpm": "1100 - 2300 RPM",
+		"noise level": "15.0 - 24.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Nexus LOW-7000 R2",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "15.0 - 24.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech Basic 68",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Sunbeam Twister 120",
+		"fan-rpm": "N/A",
+		"noise level": "16.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Reeven Brontes",
+		"fan-rpm": "650 - 2200 RPM",
+		"noise level": "10.5 - 31.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Reeven Steropes",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "9.3 - 33.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech Megahalems Rev.B",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master X6 Elite",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "9.0 - 34.6 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "NZXT Kraken X40",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "21.0 - 37.0 dbA",
+		"ratings": "12",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Eisberg 240L Prestige",
+		"fan-rpm": "1600 RPM",
+		"noise level": "20.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "NZXT Respire T20",
+		"fan-rpm": "1300 - 1800 RPM",
+		"noise level": "26.5 - 34.0 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Corsair H70 Core",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC106",
+		"fan-rpm": "1500 RPM",
+		"noise level": "19.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys IC231PWM",
+		"fan-rpm": "900 - 2400 RPM",
+		"noise level": "17.8 - 32.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0596",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "21.0 - 44.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Janus LD1266",
+		"fan-rpm": "1200 RPM",
+		"noise level": "19.2 - 22.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Dark Knight II SD1283",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "30.1 dbA",
+		"ratings": "17",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R22",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R4",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£29.74"
+	},
+	{
+		"name": "Thermaltake Water 2.0 Pro",
+		"fan-rpm": "1200 - 2000 RPM",
+		"noise level": "10.0 - 27.4 dbA",
+		"ratings": "6",
+		"price": ""
+	},
+	{
+		"name": "Enermax ELC-LM120S-TAA",
+		"fan-rpm": "2500 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ELC-LM120S-HP",
+		"fan-rpm": "2500 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "EVGA ACX mITX",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "33.4 dbA",
+		"ratings": "10",
+		"price": ""
+	},
+	{
+		"name": "Deepcool Maelstrom 120T RF",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "17.8 - 34.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool TTC-NK85TZ/V2(RB)",
+		"fan-rpm": "800 - 2150 RPM",
+		"noise level": "17.2 - 39.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "TUNIQ Tower 120 Extreme",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "16.0 - 20.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech PRO-PNTH",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Reeven Hans RC-1205n",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "4.0 - 29.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Deepcool ICE BLADE PRO V2.0",
+		"fan-rpm": "900 - 1500 RPM",
+		"noise level": "17.8 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech PRO-ARMGD",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe Ashura Shadow",
+		"fan-rpm": "500 - 1300 RPM",
+		"noise level": "13.0 - 30.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING IS-40",
+		"fan-rpm": "300 - 2500 RPM",
+		"noise level": "14.0 - 33.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer 13 Pro",
+		"fan-rpm": "300 - 1350 RPM",
+		"noise level": "N/A",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Akasa Nero LX",
+		"fan-rpm": "600 - 1900 RPM",
+		"noise level": "11.5 - 31.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "X2 ECLIPSE IV",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "10.0 - 24.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zero Infinity Shiva",
+		"fan-rpm": "2200 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0555",
+		"fan-rpm": "300 - 2500 RPM",
+		"noise level": "12.0 - 16.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master DI5-9HDSC-A1-GP",
+		"fan-rpm": "2200 RPM",
+		"noise level": "23.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Rosewill RCX-ZAIO-92",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "14.5 - 25.0 dbA",
+		"ratings": "10",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master RR-V6SV-22PR-R1",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "15.0 - 38.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master RR-H101-22FK-RI",
+		"fan-rpm": "2200 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Macho Rev.A.",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CL-P0401",
+		"fan-rpm": "1300 - 2000 RPM",
+		"noise level": "16.0 - 24.0 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Silverstone NT07-1156",
+		"fan-rpm": "1200 - 3000 RPM",
+		"noise level": "15.0 - 38.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake A4022",
+		"fan-rpm": "1300 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0579",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "15.0 - 33.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0527",
+		"fan-rpm": "800 - 1700 RPM",
+		"noise level": "16.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master V8",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "6",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS 7500 Cu LED",
+		"fan-rpm": "1150 - 2300 RPM",
+		"noise level": "17.0 - 32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS7000C-AlCu",
+		"fan-rpm": "1350 - 2400 RPM",
+		"noise level": "17.0 - 24.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS10X QUIET",
+		"fan-rpm": "700 - 1400 RPM",
+		"noise level": "26.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone NT01-PRO",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Rosewill RCX-Z90-CP",
+		"fan-rpm": "600 - 3000 RPM",
+		"noise level": "13.5 - 26.5 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Water 2.0 Extreme",
+		"fan-rpm": "1200 - 2000 RPM",
+		"noise level": "27.4 dbA",
+		"ratings": "11",
+		"price": ""
+	},
+	{
+		"name": "Antec KUHLER Shelf",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Corsair A50",
+		"fan-rpm": "1600 - 2000 RPM",
+		"noise level": "26.0 - 31.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-214i",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCMG-2100",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCYS-1000",
+		"fan-rpm": "470 - 1900 RPM",
+		"noise level": "7.0 - 27.3 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCRT-1000",
+		"fan-rpm": "470 - 1900 RPM",
+		"noise level": "9.8 - 27.3 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS7000-AlCu",
+		"fan-rpm": "1350 - 2400 RPM",
+		"noise level": "0.2 - 0.2 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek EP-CD901",
+		"fan-rpm": "1200 - 2500 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm Nirvana NV120 PWM",
+		"fan-rpm": "900 - 1800 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm ZT-570D",
+		"fan-rpm": "900 - 2300 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek GAIA SD1283",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "16.0 - 24.0 dbA",
+		"ratings": "6",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Macho Rev.B",
+		"fan-rpm": "300 - 1300 RPM",
+		"noise level": "15.0 - 21.0 dbA",
+		"ratings": "3",
+		"price": "£43.47"
+	},
+	{
+		"name": "ID-COOLING IS-60",
+		"fan-rpm": "600 - 1600 RPM",
+		"noise level": "13.8 - 30.2 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Reeven Chrono Guard",
+		"fan-rpm": "300 - 2500 RPM",
+		"noise level": "7.2 - 31.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK TISIS CORE EDITION",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£79.48"
+	},
+	{
+		"name": "Thermalright AXP-200",
+		"fan-rpm": "700 - 1300 RPM",
+		"noise level": "30.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS9500A-LED",
+		"fan-rpm": "1350 - 2600 RPM",
+		"noise level": "18.0 - 27.5 dbA",
+		"ratings": "10",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Archon IB-E X2",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "SilenX EFZ-120HA5",
+		"fan-rpm": "1600 RPM",
+		"noise level": "8.0 - 24.0 dbA",
+		"ratings": "3",
+		"price": "£32.44"
+	},
+	{
+		"name": "Deepcool Maelstrom 120K",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "18.2 - 32.4 dbA",
+		"ratings": "3",
+		"price": "£45.46"
+	},
+	{
+		"name": "Evercool HPI-12025",
+		"fan-rpm": "1200 - 1800 RPM",
+		"noise level": "23.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake Riing Silent 12 Blue",
+		"fan-rpm": "300 - 1400 RPM",
+		"noise level": "13.0 - 18.0 dbA",
+		"ratings": "0",
+		"price": "£33.29"
+	},
+	{
+		"name": "ID-COOLING DK-03",
+		"fan-rpm": "1600 RPM",
+		"noise level": "26.4 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING IS-25i",
+		"fan-rpm": "800 - 2700 RPM",
+		"noise level": "14.0 - 23.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech Megahalems (No Fans)",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Dynatron T318",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions CC-SiberianP-01",
+		"fan-rpm": "900 - 2200 RPM",
+		"noise level": "10.0 - 23.5 dbA",
+		"ratings": "0",
+		"price": "£16.96"
+	},
+	{
+		"name": "Reeven Arcziel",
+		"fan-rpm": "300 - 2500 RPM",
+		"noise level": "7.2 - 31.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK TRITON BLUE",
+		"fan-rpm": "1000 - 2600 RPM",
+		"noise level": "21.6 - 36.6 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Silverstone Argon AR10-115XS",
+		"fan-rpm": "500 - 4000 RPM",
+		"noise level": "18.1 - 39.0 dbA",
+		"ratings": "0",
+		"price": "£28.99"
+	},
+	{
+		"name": "Thermalright AXP-100 Muscle",
+		"fan-rpm": "900 - 2500 RPM",
+		"noise level": "22.0 - 30.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions CC-GX7-01-A",
+		"fan-rpm": "600 - 1800 RPM",
+		"noise level": "10.0 - 26.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS 7500 AlCu LED",
+		"fan-rpm": "1150 - 2300 RPM",
+		"noise level": "17.0 - 32.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-T40-W",
+		"fan-rpm": "2200 RPM",
+		"noise level": "31.2 dbA",
+		"ratings": "8",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS10X OPTIMA",
+		"fan-rpm": "1000 - 1700 RPM",
+		"noise level": "17.0 - 28.0 dbA",
+		"ratings": "4",
+		"price": "£31.94"
+	},
+	{
+		"name": "Masscool 5T568S1H3",
+		"fan-rpm": "4200 RPM",
+		"noise level": "31.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool EC-NK804A-925EP",
+		"fan-rpm": "2750 RPM",
+		"noise level": "28.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer A32",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": "£19.14"
+	},
+	{
+		"name": "Phanteks PH-TC14CS_BK",
+		"fan-rpm": "700 RPM",
+		"noise level": "13.4 - 19.0 dbA",
+		"ratings": "2",
+		"price": "£90.81"
+	},
+	{
+		"name": "Evercool HPS-810CP",
+		"fan-rpm": "1500 - 4000 RPM",
+		"noise level": "16.2 - 37.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Dynatron T450",
+		"fan-rpm": "800 - 2500 RPM",
+		"noise level": "16.0 - 27.3 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Rosewill RCX-Z90-AL",
+		"fan-rpm": "600 - 3000 RPM",
+		"noise level": "15.0 - 30.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Antec KUHLER Flow",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£46.41"
+	},
+	{
+		"name": "Silverstone AR03",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "16.4 - 33.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK THEMIS Evo",
+		"fan-rpm": "1000 - 1500 RPM",
+		"noise level": "24.5 dbA",
+		"ratings": "0",
+		"price": "£32.99"
+	},
+	{
+		"name": "Zalman CNPS9900 D/F",
+		"fan-rpm": "900 - 1400 RPM",
+		"noise level": "19.0 - 27.0 dbA",
+		"ratings": "0",
+		"price": "£58.95"
+	},
+	{
+		"name": "RAIJINTEK TISIS",
+		"fan-rpm": "600 - 1000 RPM",
+		"noise level": "23.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS 9700 NT",
+		"fan-rpm": "1250 - 2800 RPM",
+		"noise level": "19.5 - 35.0 dbA",
+		"ratings": "0",
+		"price": "£160.90"
+	},
+	{
+		"name": "Noctua NH-C12P SE14",
+		"fan-rpm": "750 - 1200 RPM",
+		"noise level": "10.1 - 19.6 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "Dynatron T195",
+		"fan-rpm": "1000 - 5000 RPM",
+		"noise level": "20.5 - 49.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions GX7",
+		"fan-rpm": "750 - 1800 RPM",
+		"noise level": "12.0 - 28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman FX70",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions Black Edition",
+		"fan-rpm": "750 - 1600 RPM",
+		"noise level": "25.4 - 25.5 dbA",
+		"ratings": "0",
+		"price": "£47.99"
+	},
+	{
+		"name": "Zalman CNPS 8700 NT",
+		"fan-rpm": "1150 - 2100 RPM",
+		"noise level": "17.5 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master RR-H101-22FK-RA",
+		"fan-rpm": "2200 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Masscool 8W553B1M3",
+		"fan-rpm": "2400 RPM",
+		"noise level": "26.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Reeven Justice",
+		"fan-rpm": "300 - 1500 RPM",
+		"noise level": "4.0 - 29.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions Rev. 2 Tranquillo",
+		"fan-rpm": "750 - 1500 RPM",
+		"noise level": "12.0 - 25.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS7X LED",
+		"fan-rpm": "1250 - 1950 RPM",
+		"noise level": "17.0 - 25.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake MeOrb II",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "18.5 - 28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool LGAL1156A-B715",
+		"fan-rpm": "1000 - 5500 RPM",
+		"noise level": "56.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Dynatron K17",
+		"fan-rpm": "1000 - 2500 RPM",
+		"noise level": "17.0 - 31.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool HPM-12025",
+		"fan-rpm": "800 - 2500 RPM",
+		"noise level": "15.0 - 35.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master RR-LEE-L911-GP",
+		"fan-rpm": "2200 RPM",
+		"noise level": "17.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-802",
+		"fan-rpm": "2200 RPM",
+		"noise level": "23.3 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "StarTech FAN7751U",
+		"fan-rpm": "4500 RPM",
+		"noise level": "39.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master GeminII S524",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "15.1 - 31.6 dbA",
+		"ratings": "6",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CL-P008-AL09WT-A",
+		"fan-rpm": "1800 RPM",
+		"noise level": "21.0 dbA",
+		"ratings": "0",
+		"price": "£19.62"
+	},
+	{
+		"name": "Prolimatech Basic 45",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCSMZ-2100",
+		"fan-rpm": "300 - 2500 RPM",
+		"noise level": "7.2 - 31.1 dbA",
+		"ratings": "0",
+		"price": "£30.19"
+	},
+	{
+		"name": "Cooler Master RR-T812-24PK-R2",
+		"fan-rpm": "600 - 2400 RPM",
+		"noise level": "19.0 - 40.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCNJ-3100",
+		"fan-rpm": "470 - 1900 RPM",
+		"noise level": "7.0 - 37.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone NT01-E",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Titan TTC-NA43TZ/CU35",
+		"fan-rpm": "900 - 2600 RPM",
+		"noise level": "14.0 - 33.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone SST-AR07",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "16.5 - 30.8 dbA",
+		"ratings": "0",
+		"price": "£37.47"
+	},
+	{
+		"name": "Thermalright TS-140",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC4002IW",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "17.8 - 27.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Titan TTC-NK85TZ/CS2",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "15.0 - 35.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R9",
+		"fan-rpm": "1000 - 4500 RPM",
+		"noise level": "13.1 - 45.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS10X Performa",
+		"fan-rpm": "900 - 2000 RPM",
+		"noise level": "17.0 - 24.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-204K",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions Rev. 3 Tranquillo",
+		"fan-rpm": "750 - 1500 RPM",
+		"noise level": "12.0 - 26.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Dynatron R14",
+		"fan-rpm": "1500 - 7000 RPM",
+		"noise level": "16.0 - 47.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys IC106",
+		"fan-rpm": "2200 RPM",
+		"noise level": "25.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-T40-BK",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.0 - 26.0 dbA",
+		"ratings": "9",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Prime SD1484",
+		"fan-rpm": "800 - 1200 RPM",
+		"noise level": "18.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Titan TTC-NC95TZ(RB)",
+		"fan-rpm": "150 - 1500 RPM",
+		"noise level": "28.6 dbA",
+		"ratings": "0",
+		"price": "£40.92"
+	},
+	{
+		"name": "Rosewill AIOLOS",
+		"fan-rpm": "1500 RPM",
+		"noise level": "24.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC4001IM",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "17.8 - 27.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK EREBOSS BLACK",
+		"fan-rpm": "650 - 1400 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Masscool 8W2002B1M4",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "20.0 - 34.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech PRO-GNSS",
+		"fan-rpm": "800 - 1600 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": "£49.99"
+	},
+	{
+		"name": "Logisys IC4300X4",
+		"fan-rpm": "400 - 2800 RPM",
+		"noise level": "17.8 - 40.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions ANTARCTICA",
+		"fan-rpm": "450 - 4500 RPM",
+		"noise level": "27.8 dbA",
+		"ratings": "0",
+		"price": "£43.47"
+	},
+	{
+		"name": "Zalman 9500A",
+		"fan-rpm": "1350 - 2600 RPM",
+		"noise level": "18.0 - 27.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Masscool 8W2002F1M4",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "20.0 - 34.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Alpenföhn ATLAS",
+		"fan-rpm": "400 - 1800 RPM",
+		"noise level": "8.0 - 24.3 dbA",
+		"ratings": "0",
+		"price": "£39.95"
+	},
+	{
+		"name": "Alpenföhn Brocken 2 PCGH",
+		"fan-rpm": "700 RPM",
+		"noise level": "18.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Alpenföhn Matterhorn Rev. C – Black Edition",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "18.2 dbA",
+		"ratings": "0",
+		"price": "£46.99"
+	},
+	{
+		"name": "Alpenföhn Panorama rev.B",
+		"fan-rpm": "900 - 2000 RPM",
+		"noise level": "14.0 - 22.1 dbA",
+		"ratings": "0",
+		"price": "£17.99"
+	},
+	{
+		"name": "Gelid Solutions CC-Spirit-02-A",
+		"fan-rpm": "900 - 2400 RPM",
+		"noise level": "10.0 - 25.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Masscool 7WA868",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "19.0 - 27.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Glacer 240L",
+		"fan-rpm": "2400 RPM",
+		"noise level": "19.0 - 40.3 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Gaia II",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "16.0 - 24.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCKDT-1000",
+		"fan-rpm": "800 - 3300 RPM",
+		"noise level": "8.2 - 32.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "RAIJINTEK TISIS",
+		"fan-rpm": "600 - 1000 RPM",
+		"noise level": "23.0 dbA",
+		"ratings": "1",
+		"price": "£48.90"
+	},
+	{
+		"name": "Logisys IC221PWM",
+		"fan-rpm": "900 - 2400 RPM",
+		"noise level": "17.8 - 26.4 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Titan TTC-NK54TZ",
+		"fan-rpm": "3500 RPM",
+		"noise level": "30.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Akasa Nero 3",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "24.6 dbA",
+		"ratings": "0",
+		"price": "£32.34"
+	},
+	{
+		"name": "Zalman CNPS9700 LED",
+		"fan-rpm": "1250 - 2800 RPM",
+		"noise level": "19.5 - 35.0 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0552",
+		"fan-rpm": "800 - 1700 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Seidon 120XL",
+		"fan-rpm": "600 - 2400 RPM",
+		"noise level": "19.0 - 40.0 dbA",
+		"ratings": "7",
+		"price": ""
+	},
+	{
+		"name": "Evercool CI01-9525EP",
+		"fan-rpm": "900 - 2600 RPM",
+		"noise level": "12.0 - 31.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman LQ-320",
+		"fan-rpm": "900 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Titan TTC-NC55TZ/RB",
+		"fan-rpm": "1800 - 2200 RPM",
+		"noise level": "28.8 - 38.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xion XON-HP9310P",
+		"fan-rpm": "1000 - 3000 RPM",
+		"noise level": "16.0 - 25.3 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Dark Knight SD1483 Frostbourne",
+		"fan-rpm": "800 - 1200 RPM",
+		"noise level": "18.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS8900 Extreme",
+		"fan-rpm": "1250 - 2800 RPM",
+		"noise level": "19.5 - 35.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CL-P0187",
+		"fan-rpm": "4800 RPM",
+		"noise level": "36.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CL-P0326",
+		"fan-rpm": "4200 RPM",
+		"noise level": "44.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone TD02",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "16.0 - 33.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS7000C-Cu",
+		"fan-rpm": "1700 - 2400 RPM",
+		"noise level": "13.5 - 24.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CL-P0508",
+		"fan-rpm": "1300 - 2000 RPM",
+		"noise level": "16.0 - 24.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0574",
+		"fan-rpm": "800 - 1300 RPM",
+		"noise level": "16.0 dbA",
+		"ratings": "0",
+		"price": "£56.40"
+	},
+	{
+		"name": "Evercool HPJ-12025",
+		"fan-rpm": "1000 RPM",
+		"noise level": "21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING FI-VC Twin",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.2 - 32.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCKC-2100",
+		"fan-rpm": "500 - 1300 RPM",
+		"noise level": "9.6 - 24.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm ZT-10D",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master TPC 812XS",
+		"fan-rpm": "500 - 1600 RPM",
+		"noise level": "8.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm ZT-1000D 775",
+		"fan-rpm": "2500 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "NZXT HAVIK 120",
+		"fan-rpm": "1200 - 1500 RPM",
+		"noise level": "18.0 - 22.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0606",
+		"fan-rpm": "800 - 1600 RPM",
+		"noise level": "18.0 - 30.2 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake BigTyp Revo.",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone SST-HE01",
+		"fan-rpm": "500 - 2000 RPM",
+		"noise level": "18.0 - 41.0 dbA",
+		"ratings": "0",
+		"price": "£41.66"
+	},
+	{
+		"name": "EVGA M020-00-000234",
+		"fan-rpm": "750 - 2500 RPM",
+		"noise level": "13.2 - 41.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Logisys AC4400BT",
+		"fan-rpm": "2200 RPM",
+		"noise level": "30.1 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Logisys IC4100AST",
+		"fan-rpm": "2200 RPM",
+		"noise level": "30.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys AC2200BT",
+		"fan-rpm": "2200 RPM",
+		"noise level": "30.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "be quiet! Shadow Rock Topflow SR1",
+		"fan-rpm": "1500 RPM",
+		"noise level": "9.6 - 24.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions Polar",
+		"fan-rpm": "1400 - 2000 RPM",
+		"noise level": "16.0 - 28.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Titan EC-TTC-NC05TZ",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "15.3 - 29.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm ZT-10D Smart",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "TUNIQ Tower 120",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "TUNIQ T-120-LFB",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0605",
+		"fan-rpm": "800 - 1600 RPM",
+		"noise level": "18.0 - 30.2 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "Vantec VAF-1225",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "20.0 - 32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enzotech Extreme-X Rev.A",
+		"fan-rpm": "1000 - 2500 RPM",
+		"noise level": "15.8 - 43.3 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING IS-40PRO",
+		"fan-rpm": "300 - 2500 RPM",
+		"noise level": "14.0 - 33.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright TS-120M(BW)",
+		"fan-rpm": "600 - 1300 RPM",
+		"noise level": "24.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Gelid Solutions Rev. 1 Tranquillo",
+		"fan-rpm": "750 - 1500 RPM",
+		"noise level": "12.0 - 25.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermalright Venomous X - RT",
+		"fan-rpm": "1300 RPM",
+		"noise level": "24.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING IS-40V3",
+		"fan-rpm": "600 - 2500 RPM",
+		"noise level": "14.0 - 33.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS20LQ",
+		"fan-rpm": "900 - 2000 RPM",
+		"noise level": "17.0 - 36.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS5X SZ",
+		"fan-rpm": "1400 - 2800 RPM",
+		"noise level": "20.0 - 32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "SilenX EFZ-100HA1",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "8.0 - 24.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "be quiet! Shadow Rock Pro SR1",
+		"fan-rpm": "1500 RPM",
+		"noise level": "24.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman ZM-CNPS14X",
+		"fan-rpm": "950 - 1350 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ARCTIC Freezer i30 CO",
+		"fan-rpm": "400 - 1350 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0550",
+		"fan-rpm": "740 - 3700 RPM",
+		"noise level": "21.0 - 40.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Eisberg 120L Prestige",
+		"fan-rpm": "1600 RPM",
+		"noise level": "20.5 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-205",
+		"fan-rpm": "1600 - 1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-203",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Nexus FLC-3000 R2",
+		"fan-rpm": "900 - 2500 RPM",
+		"noise level": "15.0 - 24.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-214",
+		"fan-rpm": "1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC4004IEXT",
+		"fan-rpm": "900 - 2200 RPM",
+		"noise level": "17.8 - 28.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC6001IM",
+		"fan-rpm": "700 - 1200 RPM",
+		"noise level": "18.2 - 26.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING FI-VC",
+		"fan-rpm": "1600 RPM",
+		"noise level": "21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Corsair H40",
+		"fan-rpm": "2000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright SILVER ARROW IB-E",
+		"fan-rpm": "900 - 1300 RPM",
+		"noise level": "21.0 - 25.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright TRUE Spirit 90M Rev.A",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "27.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Dark Knight SD1283",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "30.1 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek HDT-S1284F",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "16.0 - 24.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-N30-TAA",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "16.0 - 27.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master TPC 812",
+		"fan-rpm": "600 - 2400 RPM",
+		"noise level": "19.0 - 40.0 dbA",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Syba CL-CNL-EOLE802",
+		"fan-rpm": "2200 RPM",
+		"noise level": "25.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "SilenX EFZ-120HA4",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "8.0 - 28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "SilenX EFZ-120HA3",
+		"fan-rpm": "800 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETD-T60-VD",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.0 - 21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool TRANSFORMER S",
+		"fan-rpm": "2200 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Titan TTC-NK35TZ/RPW/V2",
+		"fan-rpm": "900 - 2800 RPM",
+		"noise level": "12.0 - 31.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCKC-2000",
+		"fan-rpm": "500 - 1300 RPM",
+		"noise level": "9.6 - 24.7 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Antec KUHLER H2O 920",
+		"fan-rpm": "700 - 2400 RPM",
+		"noise level": "27.4 dbA",
+		"ratings": "5",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCMN-2000",
+		"fan-rpm": "500 - 1700 RPM",
+		"noise level": "9.6 - 36.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Antec Performance Max",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC2001IE",
+		"fan-rpm": "2200 RPM",
+		"noise level": "23.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Masscool 8W5020F1M",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "20.0 - 34.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Glacer 240L Ver. 2",
+		"fan-rpm": "2400 RPM",
+		"noise level": "19.0 - 40.3 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS7000V(AL)-1-PWMB",
+		"fan-rpm": "800 - 2600 RPM",
+		"noise level": "20.0 - 32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "NZXT HAVIK 140",
+		"fan-rpm": "1200 RPM",
+		"noise level": "25.0 dbA",
+		"ratings": "12",
+		"price": ""
+	},
+	{
+		"name": "Logisys MC6002GS",
+		"fan-rpm": "500 - 1500 RPM",
+		"noise level": "17.6 - 27.6 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CL-P0101",
+		"fan-rpm": "600 - 3700 RPM",
+		"noise level": "15.0 - 46.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Loki II",
+		"fan-rpm": "1200 - 2800 RPM",
+		"noise level": "20.0 - 28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ELC120-TB",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "17.3 - 31.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ELC120-TA",
+		"fan-rpm": "800 - 2200 RPM",
+		"noise level": "18.5 - 32.8 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master CHD-00008-01-GP",
+		"fan-rpm": "2200 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Dynatron T459",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-T40-VD",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.0 - 21.0 dbA",
+		"ratings": "4",
+		"price": ""
+	},
+	{
+		"name": "Corsair H100",
+		"fan-rpm": "1300 - 2500 RPM",
+		"noise level": "22.0 - 39.0 dbA",
+		"ratings": "47",
+		"price": ""
+	},
+	{
+		"name": "Antec Kuhler H2O 620",
+		"fan-rpm": "1450 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "21",
+		"price": ""
+	},
+	{
+		"name": "Swiftech H220",
+		"fan-rpm": "1200 - 3000 RPM",
+		"noise level": "16.0 - 33.0 dbA",
+		"ratings": "9",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master Hyper 612",
+		"fan-rpm": "600 - 2000 RPM",
+		"noise level": "9.0 - 36.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Prolimatech PRO-MGH-B",
+		"fan-rpm": "N/A",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Enermax ETS-T40-TA",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.0 - 21.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0533",
+		"fan-rpm": "1000 - 6000 RPM",
+		"noise level": "21.0 - 48.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0532",
+		"fan-rpm": "2500 RPM",
+		"noise level": "34.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CL-P0257",
+		"fan-rpm": "1700 RPM",
+		"noise level": "17.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master X6",
+		"fan-rpm": "600 - 1900 RPM",
+		"noise level": "8.0 - 27.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0554",
+		"fan-rpm": "1000 - 1600 RPM",
+		"noise level": "19.0 - 28.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Sunbeam CR-CCTF",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "16.0 - 20.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake CLP0604",
+		"fan-rpm": "1200 - 2100 RPM",
+		"noise level": "21.0 - 48.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master DI5-8E5PA-0L-GP",
+		"fan-rpm": "2800 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Silverstone NT06-E",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "3",
+		"price": ""
+	},
+	{
+		"name": "Silverstone NT07-775",
+		"fan-rpm": "1200 - 1800 RPM",
+		"noise level": "15.0 - 23.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermalright AXP-100",
+		"fan-rpm": "900 - 2500 RPM",
+		"noise level": "22.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS9300 AT",
+		"fan-rpm": "1500 - 2400 RPM",
+		"noise level": "20.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake A4021",
+		"fan-rpm": "2200 RPM",
+		"noise level": "18.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master S2N-PLMHS-07-GP",
+		"fan-rpm": "-",
+		"noise level": "-",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS8000A",
+		"fan-rpm": "1400 - 2600 RPM",
+		"noise level": "20.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman CNPS9900NT",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "19.5 - 38.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Rosewill RCX-Z2",
+		"fan-rpm": "500 - 3400 RPM",
+		"noise level": "17.0 - 34.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Rosewill RCX-Z80-AL",
+		"fan-rpm": "2500 RPM",
+		"noise level": "22.4 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Cooler Master GeminII S",
+		"fan-rpm": "1000 - 2000 RPM",
+		"noise level": "17.0 - 21.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING IS-25",
+		"fan-rpm": "800 - 2700 RPM",
+		"noise level": "14.0 - 23.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Sunbeam CR-CCTF92-4",
+		"fan-rpm": "1200 - 2200 RPM",
+		"noise level": "27.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Thermaltake A4012-02",
+		"fan-rpm": "2500 RPM",
+		"noise level": "21.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Dynatron T860",
+		"fan-rpm": "2000 - 6000 RPM",
+		"noise level": "20.2 - 44.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-213",
+		"fan-rpm": "800 - 1600 RPM",
+		"noise level": "16.0 - 20.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-203K",
+		"fan-rpm": "1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING FI-REEX",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCBSK-1000",
+		"fan-rpm": "650 - 2200 RPM",
+		"noise level": "N/A",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCNJ-3000",
+		"fan-rpm": "470 - 1900 RPM",
+		"noise level": "9.8 - 27.3 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Scythe SCSMZ-2000",
+		"fan-rpm": "300 - 2500 RPM",
+		"noise level": "7.2 - 31.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Rosewill ROCC-13001",
+		"fan-rpm": "2000 RPM",
+		"noise level": "19.4 - 31.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Masscool 5W1081F1M3",
+		"fan-rpm": "2400 RPM",
+		"noise level": "31.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Masscool 5U1082F1M4",
+		"fan-rpm": "2000 - 3600 RPM",
+		"noise level": "23.0 - 45.9 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Masscool 8WT15-38",
+		"fan-rpm": "2400 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "Masscool 8WA743",
+		"fan-rpm": "800 - 2800 RPM",
+		"noise level": "20.0 - 34.0 dbA",
+		"ratings": "1",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm BTF90",
+		"fan-rpm": "750 - 2500 RPM",
+		"noise level": "18.0 - 27.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ID-COOLING SE-204",
+		"fan-rpm": "800 - 1800 RPM",
+		"noise level": "16.2 - 29.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Dark Knight S1283V",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "30.1 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek HDT-S963",
+		"fan-rpm": "1200 - 2800 RPM",
+		"noise level": "23.0 - 35.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek HDT-S1283",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "20.0 - 32.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Balder SD1283",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek EP-CD903",
+		"fan-rpm": "1200 - 2500 RPM",
+		"noise level": "28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek HDT-D1284",
+		"fan-rpm": "800 - 1500 RPM",
+		"noise level": "27.2 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek D982",
+		"fan-rpm": "1500 - 2500 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek HDT-SD964",
+		"fan-rpm": "1200 - 2800 RPM",
+		"noise level": "22.0 - 30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm CORE92",
+		"fan-rpm": "900 - 2500 RPM",
+		"noise level": "19.5 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm ZT-560D",
+		"fan-rpm": "900 - 2300 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "ZEROtherm CF800-MK III",
+		"fan-rpm": "900 - 2600 RPM",
+		"noise level": "30.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek LOKI SD963",
+		"fan-rpm": "1200 - 2800 RPM",
+		"noise level": "20.0 - 28.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Cobra - D984",
+		"fan-rpm": "1000 - 2800 RPM",
+		"noise level": "20.0 - 28.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Aegir SD128264",
+		"fan-rpm": "1000 - 2200 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "2",
+		"price": ""
+	},
+	{
+		"name": "Evercool HPK-10025EA",
+		"fan-rpm": "1800 RPM",
+		"noise level": "23.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Xigmatek Praeton LD963",
+		"fan-rpm": "1200 - 2800 RPM",
+		"noise level": "22.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Evercool HPH-9525CU",
+		"fan-rpm": "1800 RPM",
+		"noise level": "20.0 dbA",
+		"ratings": "0",
+		"price": ""
+	},
+	{
+		"name": "Zalman LQ-310",
+		"fan-rpm": "900 - 2000 RPM",
+		"noise level": "N/A",
+		"ratings": "3",
+		"price": ""
+	}
+]
