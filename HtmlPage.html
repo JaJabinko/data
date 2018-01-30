@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PC Value Checker</title>
+</head>
+    <style>
+         body{margin: 0;}
+            ul { /*This sets the design for the unsoted list*/
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                width: 10%;
+                background-color: #97C0CE;
+                height: 100%; /*This makes the navigation bar the full height of the screen*/
+                position: fixed; /*This makes it stick to the side of the screen, even when scroling*/
+                overflow: auto; /*This enables scroling if the bar has to much content*/
+                }
+
+            li a { /*This sets the design for each list item*/
+                display: block;
+                color: #000;
+                padding: 8px 16px;
+                text-decoration: none;
+                font-family: "Roboto" /*This sets the Font as Roboto*/
+                  }
+
+            li a:hover { /* Change the link color on hover */
+                background-color: #74828F;
+                color: white;
+                       }
+
+        .button {
+            background: #97C0CE;
+            border: none;
+            color: white;
+            padding: 45px 45px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 0;
+            -webkit-transition-duration: 0.4s;
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+
+        .button1 a {
+            background-color: #97C0CE;
+            color: black;
+            border: 2px solid #97C0CE;
+        }
+
+            .button1:hover {
+                background-color: #74828F;
+                color: white;
+            }
+
+        .button2 a {
+            background-color: #97C0CE;
+            color: black;
+            border: 2px solid #97C0CE;
+        }
+
+            .button2:hover {
+                background-color: #74828F;
+                color: white;
+            }
+
+        .button3 a {
+            background-color: #97C0CE;
+            color: black;
+            border: 2px solid #97C0CE;
+        }
+
+            .button3:hover {
+                background-color: #74828F;
+                color: white;
+            }
+            
+    </style>
+    </head>
+    <body>
+
+        <ul>
+            <li><a href="HtmlPage.html">Home</a></li>
+            <li><a href="page_1.html">Check Your PC Value</a></li>
+            <li><a href="page_2.html">PC Build Guides</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+        
+        <div style="margin-left:10%;padding:1px 16px;height:1000px;">
+            <h2>Home</h2>
+            <button><a href="page_1.html" class="button button1">Check Your PC Value</a></button>
+            <button><a href="page_2.html" class="button button2">PC Build Guide</a></button>
+            <button><a href="about.html" class="button button3"> About</a></button>
+
+
+</body>
+</html>
